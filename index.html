@@ -66,16 +66,18 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 .ais-Hits-item { background: var(--white); border-radius: var(--r); border: 1px solid var(--soft); box-shadow: 0 2px 10px rgba(0,0,0,0.06); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.18s, box-shadow 0.18s; padding: 0 !important; }
 .ais-Hits-item:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); }
 .hcard-link { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: inherit; }
-.hcover-wrap { width: 100%; padding-top: 53.33%; position: relative; background: #f0f2f4; flex-shrink: 0; }
+/* Cover always has a light base — never dark */
+.hcover-wrap { width: 100%; padding-top: 53.33%; position: relative; flex-shrink: 0; background: #e8eaed; }
 .hcover { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
-.hcover-placeholder { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: var(--slate); }
+.hcover-fallback { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: #e8eaed; display: flex; align-items: center; justify-content: center; }
+.hcover-fallback::after { content: '📚'; font-size: 2.2rem; opacity: 0.2; }
 .hhead { background: var(--white); padding: 12px 14px 8px; flex-shrink: 0; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid #f0f0f0; }
 .havatar { width: 38px; height: 38px; border-radius: 50%; object-fit: cover; border: 2px solid rgba(42,183,169,0.4); flex-shrink: 0; }
 .hinitial { width: 38px; height: 38px; border-radius: 50%; background: var(--teal); display: flex; align-items: center; justify-content: center; font-size: 0.95rem; font-weight: 700; color: white; flex-shrink: 0; }
 .hhead-text { flex: 1; min-width: 0; }
 .hcat { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.09em; color: var(--teal); margin-bottom: 2px; }
 .htitle { font-size: 0.88rem; font-weight: 700; color: var(--slate); line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.ais-Highlight-highlighted { background: rgba(42,183,169,0.3); color: var(--white); font-style: normal; }
+.ais-Highlight-highlighted { background: rgba(42,183,169,0.3); color: var(--slate); font-style: normal; }
 .hbody { padding: 12px 14px; flex: 1; display: flex; flex-direction: column; overflow: hidden; }
 .hdesc { font-size: 12px; color: #666; line-height: 1.55; margin-bottom: 8px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; flex: 1; }
 .hmeta { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
@@ -83,12 +85,13 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 .htag.fmt { background: rgba(42,183,169,0.08); color: var(--teal-h); border-color: rgba(42,183,169,0.2); }
 .htag.grd { background: rgba(19,29,45,0.05); color: var(--slate); border-color: rgba(19,29,45,0.12); }
 .hfoot { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; border-top: 1px solid #eee; margin-top: auto; gap: 8px; }
-.hprice { font-size: 11px; color: #999; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
+.hprice { font-size: 11px; color: #999; }
 .hbtn { display: inline-block; padding: 6px 14px; background: var(--teal); color: white; border-radius: 10px; text-decoration: none; font-size: 11px; font-weight: 600; transition: background 0.2s; white-space: nowrap; }
 .hbtn:hover { background: var(--teal-h); }
 .hempty { text-align: center; padding: 50px 20px; background: var(--white); border-radius: var(--r); border: 1px solid var(--soft); }
 .hempty h3 { font-size: 1.1rem; font-weight: 700; color: var(--gray); margin-bottom: 6px; }
 .hempty p { font-size: 13px; color: #888; }
+.hcard-error { background: var(--white); border-radius: var(--r); border: 1px solid var(--soft); padding: 20px; font-size: 12px; color: #aaa; text-align: center; }
 .ais-Pagination { margin-top: 24px; display: flex; justify-content: center; }
 .ais-Pagination-list { display: flex; list-style: none; gap: 4px; }
 .ais-Pagination-link { display: flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 8px; border: 1px solid var(--soft); background: var(--white); color: var(--gray); text-decoration: none; font-size: 13px; transition: all 0.15s; }
@@ -138,24 +141,76 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/4.64.1/instantsearch.production.min.js"></script>
 <script>
 (function() {
-  var BASE = 'https://learn.everyavenue.com/';
-  function clean(raw) {
-    if (!raw) return '';
-    var s = raw.replace(/<s>/gi, 's').replace(/<\/s>/gi, '');
-    var d = document.createElement('div');
-    d.innerHTML = s;
-    return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
+
+  function safe(val) {
+    return (val === null || val === undefined) ? '' : String(val);
   }
+
+  function clean(raw) {
+    try {
+      if (!raw) return '';
+      var s = safe(raw).replace(/<s>/gi, 's').replace(/<\/s>/gi, '');
+      var d = document.createElement('div');
+      d.innerHTML = s;
+      return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
+    } catch(e) { return ''; }
+  }
+
+  function renderCard(hit) {
+    try {
+      var title = safe((hit._highlightResult && hit._highlightResult.title) ? hit._highlightResult.title.value : hit.title) || 'Untitled';
+      var url = safe(hit.url) || '#';
+      var category = safe(hit.category);
+      var desc = clean(hit.description);
+      var format = safe(hit.format);
+      var grades = safe(hit.grades);
+      var delivery = safe(hit.delivery_method);
+      var rates = safe(hit.rates);
+      var thumbnail = safe(hit.thumbnail);
+      var profile_photo = safe(hit.profile_photo);
+      var ini = (title || '?')[0].toUpperCase();
+
+      var coverHtml = thumbnail
+        ? '<div class="hcover-wrap"><img class="hcover" src="' + thumbnail + '" alt="" onerror="this.style.display=\'none\'"/></div>'
+        : '<div class="hcover-wrap"><div class="hcover-fallback"></div></div>';
+
+      var av = profile_photo
+        ? '<img class="havatar" src="' + profile_photo + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'"/><div class="hinitial" style="display:none">' + ini + '</div>'
+        : '<div class="hinitial">' + ini + '</div>';
+
+      return '<a class="hcard-link" href="' + url + '" target="_blank">'
+        + coverHtml
+        + '<div class="hhead">' + av
+        + '<div class="hhead-text">'
+        + (category ? '<div class="hcat">' + category + '</div>' : '')
+        + '<div class="htitle">' + title + '</div>'
+        + '</div></div>'
+        + '<div class="hbody">'
+        + (desc ? '<div class="hdesc">' + desc + '</div>' : '')
+        + '<div class="hmeta">'
+        + (format ? '<span class="htag fmt">' + format + '</span>' : '')
+        + (grades ? '<span class="htag grd">' + grades + '</span>' : '')
+        + (delivery ? '<span class="htag">' + delivery + '</span>' : '')
+        + '</div>'
+        + '<div class="hfoot">'
+        + (rates ? '<span class="hprice">' + rates + '</span>' : '<span class="hprice"></span>')
+        + '<span class="hbtn">View Listing →</span>'
+        + '</div></div>'
+        + '</a>';
+    } catch(e) {
+      // If anything goes wrong, render a safe placeholder card instead of crashing
+      return '<div class="hcard-error">This listing is being updated.</div>';
+    }
+  }
+
   var urlQuery = new URLSearchParams(window.location.search).get('q') || '';
+
   var search = instantsearch({
     indexName: 'BD_class_posts',
     searchClient: algoliasearch('V4Z6530MZ3', '764e5cea43bb0f0373d65fd3a9edcfa1'),
-    initialUiState: {
-      BD_class_posts: {
-        query: urlQuery
-      }
-    }
+    initialUiState: { BD_class_posts: { query: urlQuery } }
   });
+
   search.addWidgets([
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
     instantsearch.widgets.refinementList({ container: '#filter-category', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
@@ -167,59 +222,19 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     instantsearch.widgets.currentRefinements({ container: '#current-refinements' }),
     instantsearch.widgets.stats({
       container: '#stats',
-      templates: { body: function(d) { return '<span>' + d.nbHits + ' educator' + (d.nbHits !== 1 ? 's' : '') + ' found</span>'; } }
+      templates: { body: function(d) { return '<span>' + d.nbHits + ' listing' + (d.nbHits !== 1 ? 's' : '') + ' found</span>'; } }
     }),
     instantsearch.widgets.hits({
       container: '#hits',
       templates: {
-        item: function(hit) {
-          var rawRates = hit.class_rates || '';
-          var rates = rawRates.length > 40 ? rawRates.substring(0, 40).trim() + '…' : rawRates;
-          var desc = clean(hit.description || '');
-          var ini = (hit.listing_title || '?')[0].toUpperCase();
-          var url = hit.group_filename ? BASE + hit.group_filename : '#';
-          var title = (hit._highlightResult && hit._highlightResult.listing_title) ? hit._highlightResult.listing_title.value : (hit.listing_title || '');
-          var av = hit.profile_photo
-            ? '<img class="havatar" src="' + hit.profile_photo + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'"/><div class="hinitial" style="display:none">' + ini + '</div>'
-            : '<div class="hinitial">' + ini + '</div>';
-          var coverHtml = hit.cover_photo
-            ? '<div class="hcover-wrap"><img class="hcover" src="' + hit.cover_photo + '" alt="" onerror="this.style.display=\'none\';this.parentNode.classList.add(\'hcover-placeholder\')"/></div>'
-            : '<div class="hcover-wrap hcover-placeholder"></div>';
-          return '<a class="hcard-link" href="' + url + '" target="_blank">'
-            + coverHtml
-            + '<div class="hhead">' + av
-            + '<div class="hhead-text">'
-            + (hit.category ? '<div class="hcat">' + hit.category + '</div>' : '')
-            + '<div class="htitle">' + title + '</div>'
-            + '</div></div>'
-            + '<div class="hbody">'
-            + '<div class="hdesc">' + desc + '</div>'
-            + '<div class="hmeta">'
-            + (hit.format ? '<span class="htag fmt">' + hit.format + '</span>' : '')
-            + (hit.grades ? '<span class="htag grd">' + hit.grades + '</span>' : '')
-            + (hit.delivery_method ? '<span class="htag">' + hit.delivery_method + '</span>' : '')
-            + '</div>'
-            + '<div class="hfoot">'
-            + '<span class="hprice">' + rates + '</span>'
-            + '<span class="hbtn">View Listing →</span>'
-            + '</div></div>'
-            + '</a>';
-        },
-        empty: function(r) { return '<div class="hempty"><h3>No results for "' + r.query + '"</h3><p>Try different keywords or clear some filters</p></div>'; }
+        item: function(hit) { return renderCard(hit); },
+        empty: function(r) { return '<div class="hempty"><h3>No results for "' + safe(r.query) + '"</h3><p>Try different keywords or clear some filters</p></div>'; }
       }
     }),
     instantsearch.widgets.pagination({ container: '#pagination', padding: 2 }),
   ]);
+
   search.start();
-
-  // Auto-resize iframe height in BD embed
-  function notifyHeight() {
-    var h = document.body.scrollHeight;
-    window.parent.postMessage({ iframeHeight: h }, '*');
-  }
-  search.on('render', notifyHeight);
-  window.addEventListener('resize', notifyHeight);
-
 })();
 </script>
 </body>
