@@ -193,7 +193,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         + (delivery ? '<span class="htag">' + delivery + '</span>' : '')
         + '</div>'
         + '<div class="hfoot">'
-        + (rates ? '<span class="hprice">' + rates + '</span>' : '<span class="hprice"></span>')
+        + (rates ? '<span class="hprice">' + rates.substring(0, 50) + (rates.length > 50 ? '…' : '') + '</span>' : '<span class="hprice"></span>')
         + '<span class="hbtn">View Listing →</span>'
         + '</div></div>'
         + '</a>';
