@@ -124,8 +124,8 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     <div id="clear-refinements"></div>
   </aside>
   <div id="lwea-results">
-    <button id="filter-toggle" onclick="var f=document.getElementById('lwea-filters');var open=f.classList.toggle('open');this.querySelector('span').textContent=open?'▲ Hide':'▼ Show';">
-      Filter Results <span>▼ Show</span>
+    <button id="filter-toggle" onclick="var f=document.getElementById('lwea-filters');var open=f.classList.toggle('open');this.querySelector('span').textContent=open?'&#9650; Hide':'&#9660; Show';">
+      Filter Results <span>&#9660; Show</span>
     </button>
     <div id="lwea-rhead">
       <div id="current-refinements"></div>
@@ -193,7 +193,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         + '</div>'
         + '<div class="hfoot">'
         + (rates ? '<span class="hprice">' + rates + '</span>' : '<span class="hprice"></span>')
-        + '<span class="hbtn">View Listing \u2192</span>'
+        + '<span class="hbtn">View Listing &#8594;</span>'
         + '</div></div>'
         + '</a>';
     } catch(e) {
@@ -225,6 +225,9 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     }),
     instantsearch.widgets.hits({
       container: '#hits',
+      transformItems: function(items) {
+        return items.sort(function() { return Math.random() - 0.5; });
+      },
       templates: {
         item: function(hit) { return renderCard(hit); },
         empty: function(r) { return '<div class="hempty"><h3>No results for "' + safe(r.query) + '"</h3><p>Try different keywords or clear some filters</p></div>'; }
@@ -237,7 +240,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 })();
 </script>
 
-<!-- HEIGHT BRIDGE — must stay here, just before </body>, never inside <style> -->
+<!-- HEIGHT BRIDGE — must stay here just before </body>, do not move -->
 <script>
 (function () {
 
