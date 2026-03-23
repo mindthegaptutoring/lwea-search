@@ -245,12 +245,18 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 (function () {
 
   function sendHeight() {
-    var h = Math.max(
-      document.body.scrollHeight,
-      document.body.offsetHeight,
-      document.documentElement.scrollHeight,
-      document.documentElement.offsetHeight
-    );
+    var body = document.getElementById('lwea-body');
+    var header = document.getElementById('lwea-header');
+    var h;
+    if (body && header) {
+      var bodyRect = body.getBoundingClientRect();
+      h = Math.ceil(bodyRect.bottom + window.scrollY) + 40;
+    } else {
+      h = Math.max(
+        document.body.scrollHeight,
+        document.documentElement.scrollHeight
+      );
+    }
     window.parent.postMessage({ type: 'lwea-resize', height: h }, '*');
   }
 
