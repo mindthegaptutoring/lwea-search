@@ -259,6 +259,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   });
 
   search.addWidgets([
+    instantsearch.widgets.configure({ hitsPerPage: 12 }),
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
     instantsearch.widgets.refinementList({ container: '#filter-category', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-format', attribute: 'format', limit: 10, sortBy: ['name:asc'] }),
