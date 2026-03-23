@@ -19,6 +19,55 @@
   --bg: #F5F7F9;
   --r: 12px;
 }
+
+  <!-- ============================================================
+  IFRAME HEIGHT BRIDGE
+  Add this just before the closing </body> tag
+  on your Netlify search page (index.html)
+  ============================================================ -->
+<script>
+(function () {
+
+  function sendHeight() {
+    var h = document.documentElement.scrollHeight;
+    window.parent.postMessage({ type: 'lwea-resize', height: h }, '*');
+  }
+
+  /* Send on load */
+  sendHeight();
+
+  /* Send whenever search results change (Algolia re-renders the hits list) */
+  if (typeof MutationObserver !== 'undefined') {
+    var target = document.getElementById('hits') || document.body;
+    var obs = new MutationObserver(function () {
+      /* Small delay so the DOM finishes painting before we measure */
+      setTimeout(sendHeight, 60);
+    });
+    obs.observe(target, { childList: true, subtree: true });
+  }
+
+  /* Send on window resize (viewport width changes affect content height) */
+  var resizeTimer;
+  window.addEventListener('resize', function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(sendHeight, 100);
+  });
+
+  /* Belt-and-suspenders: also send after filters change */
+  document.addEventListener('click', function (e) {
+    if (e.target && (
+      e.target.classList.contains('ais-RefinementList-checkbox') ||
+      e.target.classList.contains('ais-RefinementList-label') ||
+      e.target.classList.contains('ais-ClearRefinements-button') ||
+      e.target.classList.contains('ais-Pagination-link')
+    )) {
+      setTimeout(sendHeight, 200);
+    }
+  });
+
+})();
+</script>
+  
 body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gray); font-size: 16px; line-height: 1.5; }
 #lwea-header { background: var(--slate); padding: 48px 24px 52px; text-align: center; }
 #lwea-header h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 700; color: var(--white); margin-bottom: 10px; }
