@@ -244,6 +244,9 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 <script>
 (function () {
 
+  var lastSentHeight = 0;
+  var debounceTimer = null;
+
   function sendHeight() {
     var body = document.getElementById('lwea-body');
     var header = document.getElementById('lwea-header');
@@ -257,41 +260,43 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         document.documentElement.scrollHeight
       );
     }
-    window.parent.postMessage({ type: 'lwea-resize', height: h }, '*');
+    /* Only send if height actually changed by more than 2px */
+    if (Math.abs(h - lastSentHeight) > 2) {
+      lastSentHeight = h;
+      window.parent.postMessage({ type: 'lwea-resize', height: h }, '*');
+    }
   }
 
+  function debouncedSend() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(sendHeight, 200);
+  }
+
+  /* Initial measurements */
   sendHeight();
-  setTimeout(sendHeight, 300);
-  setTimeout(sendHeight, 800);
+  setTimeout(sendHeight, 500);
+  setTimeout(sendHeight, 1500);
 
   window.addEventListener('load', function () {
     sendHeight();
-    setTimeout(sendHeight, 300);
-    setTimeout(sendHeight, 800);
+    setTimeout(sendHeight, 500);
     setTimeout(sendHeight, 1500);
-    setTimeout(sendHeight, 3000);
   });
 
-  if (typeof MutationObserver !== 'undefined') {
-    var hitsEl = document.getElementById('hits') || document.body;
-    var hitsObs = new MutationObserver(function () {
-      setTimeout(sendHeight, 100);
-      setTimeout(sendHeight, 400);
-    });
-    hitsObs.observe(hitsEl, { childList: true, subtree: true });
-
-    var bodyObs = new MutationObserver(function () {
-      setTimeout(sendHeight, 150);
-    });
-    bodyObs.observe(document.body, { childList: true, subtree: false });
+  /* ResizeObserver watches the actual content element — only fires on real size changes */
+  if (typeof ResizeObserver !== 'undefined') {
+    var ro = new ResizeObserver(debouncedSend);
+    ro.observe(document.getElementById('lwea-body') || document.body);
+  } else {
+    /* Fallback: MutationObserver watching only direct children of hits */
+    if (typeof MutationObserver !== 'undefined') {
+      var hitsEl = document.getElementById('hits') || document.body;
+      var mo = new MutationObserver(debouncedSend);
+      mo.observe(hitsEl, { childList: true, subtree: false });
+    }
   }
 
-  var resizeTimer;
-  window.addEventListener('resize', function () {
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(sendHeight, 100);
-  });
-
+  /* Re-measure on filter/pagination clicks */
   document.addEventListener('click', function (e) {
     if (e.target && (
       e.target.classList.contains('ais-RefinementList-checkbox') ||
@@ -299,9 +304,16 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
       e.target.classList.contains('ais-ClearRefinements-button') ||
       e.target.classList.contains('ais-Pagination-link')
     )) {
-      setTimeout(sendHeight, 200);
-      setTimeout(sendHeight, 600);
+      setTimeout(sendHeight, 300);
+      setTimeout(sendHeight, 800);
     }
+  });
+
+  /* Re-measure on window resize */
+  var resizeTimer;
+  window.addEventListener('resize', function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(sendHeight, 150);
   });
 
 })();
