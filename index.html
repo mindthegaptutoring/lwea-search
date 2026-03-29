@@ -4,6 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Find an Educator – Learn with Every Avenue</title>
+<!-- v1.4 — removed transformItems sorting (broke pagination); use Algolia custom ranking instead -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/4.64.1/instantsearch.min.css"/>
 <style>
@@ -203,10 +204,40 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 
   var urlQuery = new URLSearchParams(window.location.search).get('q') || '';
 
+  var CATEGORIES = [
+    'Math',
+    'Science and Nature',
+    'Reading and Writing',
+    'Arts and Making',
+    'World Languages',
+    'Physical Movement',
+    'Life Skills and Entrepreneurship',
+    'History and Culture',
+    'Music',
+    'Technology and Coding'
+  ];
+
+  var categoryFilter = null;
+  var textQuery = urlQuery;
+  if (urlQuery) {
+    var ql = urlQuery.toLowerCase();
+    for (var ci = 0; ci < CATEGORIES.length; ci++) {
+      if (CATEGORIES[ci].toLowerCase() === ql) {
+        categoryFilter = CATEGORIES[ci];
+        textQuery = '';
+        break;
+      }
+    }
+  }
+
+  var initialState = categoryFilter
+    ? { BD_class_posts: { refinementList: { category: [categoryFilter] } } }
+    : { BD_class_posts: { query: textQuery } };
+
   var search = instantsearch({
     indexName: 'BD_class_posts',
     searchClient: algoliasearch('V4Z6530MZ3', '764e5cea43bb0f0373d65fd3a9edcfa1'),
-    initialUiState: { BD_class_posts: { query: urlQuery } }
+    initialUiState: initialState
   });
 
   search.addWidgets([
@@ -225,9 +256,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     }),
     instantsearch.widgets.hits({
       container: '#hits',
-      transformItems: function(items) {
-        return items.sort(function() { return Math.random() - 0.5; });
-      },
       templates: {
         item: function(hit) { return renderCard(hit); },
         empty: function(r) { return '<div class="hempty"><h3>No results for "' + safe(r.query) + '"</h3><p>Try different keywords or clear some filters</p></div>'; }
