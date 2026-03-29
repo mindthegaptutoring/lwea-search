@@ -230,18 +230,17 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     }
   }
 
-  var initialState = categoryFilter
-    ? { BD_class_posts: { refinementList: { category: [categoryFilter] } } }
-    : { BD_class_posts: { query: textQuery } };
-
   var search = instantsearch({
     indexName: 'BD_class_posts',
     searchClient: algoliasearch('V4Z6530MZ3', '764e5cea43bb0f0373d65fd3a9edcfa1'),
-    initialUiState: initialState
+    initialUiState: { BD_class_posts: { query: textQuery } }
   });
 
   search.addWidgets([
-    instantsearch.widgets.configure({ hitsPerPage: 12 }),
+    instantsearch.widgets.configure({
+      hitsPerPage: 12,
+      filters: categoryFilter ? 'category:"' + categoryFilter + '"' : ''
+    }),
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
     instantsearch.widgets.refinementList({ container: '#filter-category', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-format', attribute: 'format', limit: 10, sortBy: ['name:asc'] }),
