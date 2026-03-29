@@ -97,6 +97,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 .ais-Pagination-link { display: flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 8px; border: 1px solid var(--soft); background: var(--white); color: var(--gray); text-decoration: none; font-size: 13px; transition: all 0.15s; }
 .ais-Pagination-link:hover, .ais-Pagination-item--selected .ais-Pagination-link { background: var(--teal); color: white; border-color: var(--teal); }
 .ais-Pagination-item--disabled .ais-Pagination-link { opacity: 0.3; pointer-events: none; }
+#lwea-rhead { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+#lwea-rhead-right { display: flex; align-items: center; gap: 12px; }
+#lwea-clear-search a { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; color: #888; background: var(--white); border: 1px solid var(--soft); border-radius: 20px; padding: 4px 12px; text-decoration: none; transition: all 0.15s; }
+#lwea-clear-search a:hover { color: var(--coral); border-color: var(--coral); background: rgba(255,111,97,0.05); }
 </style>
 </head>
 <body>
@@ -130,7 +134,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     </button>
     <div id="lwea-rhead">
       <div id="current-refinements"></div>
-      <div id="stats"></div>
+      <div id="lwea-rhead-right">
+        <div id="stats"></div>
+        <div id="lwea-clear-search"></div>
+      </div>
     </div>
     <div id="hits"></div>
     <div id="pagination"></div>
@@ -203,6 +210,14 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   }
 
   var urlQuery = new URLSearchParams(window.location.search).get('q') || '';
+
+  /* Show "Clear search" link whenever a ?q= filter is active */
+  if (urlQuery) {
+    var clearWrap = document.getElementById('lwea-clear-search');
+    if (clearWrap) {
+      clearWrap.innerHTML = '<a href="https://mindthegaptutoring.github.io/lwea-search/">&#10005; Clear search</a>';
+    }
+  }
 
   var CATEGORIES = [
     'Math',
