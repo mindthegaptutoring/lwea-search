@@ -170,7 +170,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
       var category = safe(hit.category);
       var desc = clean(hit.description);
       var format = safe(hit.format);
-      var grades = safe(hit.grades);
+      var grades = Array.isArray(hit.grades) ? hit.grades.join(', ') : safe(hit.grades);
       var delivery = safe(hit.delivery_method);
       var rates = safe(hit.rates);
       var thumbnail = safe(hit.thumbnail);
