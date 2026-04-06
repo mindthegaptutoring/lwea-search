@@ -169,7 +169,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     try {
       var title = safe((hit._highlightResult && hit._highlightResult.title) ? hit._highlightResult.title.value : hit.title) || 'Untitled';
       var url = safe(hit.listing_url) || '#';          /* was hit.url */
-      var subject = safe(hit.subject);                 /* was hit.category */
+      var subject = safe(hit.category);
       var desc = clean(hit.description);
       var format = safe(hit.format);
       var grades = Array.isArray(hit.grades) ? hit.grades.join(', ') : safe(hit.grades);
@@ -255,10 +255,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   search.addWidgets([
     instantsearch.widgets.configure({
       hitsPerPage: 12,
-      filters: subjectFilter ? 'subject:"' + subjectFilter + '"' : ''
+      filters: subjectFilter ? 'category:"' + subjectFilter + '"' : ''
     }),
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
-    instantsearch.widgets.refinementList({ container: '#filter-subject', attribute: 'subject', limit: 10, sortBy: ['name:asc'] }),
+    instantsearch.widgets.refinementList({ container: '#filter-subject', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-format', attribute: 'format', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-grades', attribute: 'grades', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-scheduling', attribute: 'scheduling', limit: 10, sortBy: ['name:asc'] }),
