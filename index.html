@@ -4,7 +4,9 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Find an Educator – Learn with Every Avenue</title>
-<!-- v1.4 — removed transformItems sorting (broke pagination); use Algolia custom ranking instead -->
+<!-- v1.5 — updated field names to match BD API sync script v4.0:
+     url→listing_url, category→subject, rates→class_rates
+     profile_photo now sourced from nested user in listing record -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/4.64.1/instantsearch.min.css"/>
 <style>
@@ -117,7 +119,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 <div id="lwea-body">
   <aside id="lwea-filters">
     <div class="fhead">Filter Results</div>
-    <div class="fblock"><div class="flbl">Subject</div><div id="filter-category"></div></div>
+    <div class="fblock"><div class="flbl">Subject</div><div id="filter-subject"></div></div>
     <div class="fhr"></div>
     <div class="fblock"><div class="flbl">Format</div><div id="filter-format"></div></div>
     <div class="fhr"></div>
@@ -166,13 +168,13 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   function renderCard(hit) {
     try {
       var title = safe((hit._highlightResult && hit._highlightResult.title) ? hit._highlightResult.title.value : hit.title) || 'Untitled';
-      var url = safe(hit.url) || '#';
-      var category = safe(hit.category);
+      var url = safe(hit.listing_url) || '#';          /* was hit.url */
+      var subject = safe(hit.subject);                 /* was hit.category */
       var desc = clean(hit.description);
       var format = safe(hit.format);
       var grades = Array.isArray(hit.grades) ? hit.grades.join(', ') : safe(hit.grades);
       var delivery = safe(hit.delivery_method);
-      var rates = safe(hit.rates);
+      var rates = safe(hit.class_rates);               /* was hit.rates */
       var thumbnail = safe(hit.thumbnail);
       var profile_photo = safe(hit.profile_photo);
       var ini = (title || '?')[0].toUpperCase();
@@ -189,7 +191,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         + coverHtml
         + '<div class="hhead">' + av
         + '<div class="hhead-text">'
-        + (category ? '<div class="hcat">' + category + '</div>' : '')
+        + (subject ? '<div class="hcat">' + subject + '</div>' : '')
         + '<div class="htitle">' + title + '</div>'
         + '</div></div>'
         + '<div class="hbody">'
@@ -211,7 +213,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 
   var urlQuery = new URLSearchParams(window.location.search).get('q') || '';
 
-  /* Show "Clear search" link whenever a ?q= filter is active */
   if (urlQuery) {
     var clearWrap = document.getElementById('lwea-clear-search');
     if (clearWrap) {
@@ -232,13 +233,13 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     'Technology and Coding'
   ];
 
-  var categoryFilter = null;
+  var subjectFilter = null;
   var textQuery = urlQuery;
   if (urlQuery) {
     var ql = urlQuery.toLowerCase();
     for (var ci = 0; ci < CATEGORIES.length; ci++) {
       if (CATEGORIES[ci].toLowerCase() === ql) {
-        categoryFilter = CATEGORIES[ci];
+        subjectFilter = CATEGORIES[ci];
         textQuery = '';
         break;
       }
@@ -254,10 +255,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   search.addWidgets([
     instantsearch.widgets.configure({
       hitsPerPage: 12,
-      filters: categoryFilter ? 'category:"' + categoryFilter + '"' : ''
+      filters: subjectFilter ? 'subject:"' + subjectFilter + '"' : ''
     }),
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
-    instantsearch.widgets.refinementList({ container: '#filter-category', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
+    instantsearch.widgets.refinementList({ container: '#filter-subject', attribute: 'subject', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-format', attribute: 'format', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-grades', attribute: 'grades', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-scheduling', attribute: 'scheduling', limit: 10, sortBy: ['name:asc'] }),
@@ -302,7 +303,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         document.documentElement.scrollHeight
       );
     }
-    /* Only send if height actually changed by more than 2px */
     if (Math.abs(h - lastSentHeight) > 2) {
       lastSentHeight = h;
       window.parent.postMessage({ type: 'lwea-resize', height: h }, '*');
@@ -314,7 +314,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     debounceTimer = setTimeout(sendHeight, 200);
   }
 
-  /* Initial measurements */
   sendHeight();
   setTimeout(sendHeight, 500);
   setTimeout(sendHeight, 1500);
@@ -325,12 +324,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     setTimeout(sendHeight, 1500);
   });
 
-  /* ResizeObserver watches the actual content element — only fires on real size changes */
   if (typeof ResizeObserver !== 'undefined') {
     var ro = new ResizeObserver(debouncedSend);
     ro.observe(document.getElementById('lwea-body') || document.body);
   } else {
-    /* Fallback: MutationObserver watching only direct children of hits */
     if (typeof MutationObserver !== 'undefined') {
       var hitsEl = document.getElementById('hits') || document.body;
       var mo = new MutationObserver(debouncedSend);
@@ -338,7 +335,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     }
   }
 
-  /* Re-measure on filter/pagination clicks */
   document.addEventListener('click', function (e) {
     if (e.target && (
       e.target.classList.contains('ais-RefinementList-checkbox') ||
@@ -351,7 +347,6 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     }
   });
 
-  /* Re-measure on window resize */
   var resizeTimer;
   window.addEventListener('resize', function () {
     clearTimeout(resizeTimer);
