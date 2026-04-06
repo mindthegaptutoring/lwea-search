@@ -1,145 +1,163 @@
-/* ── HOMEPAGE LIVE LISTINGS + SEARCH BAR ────────────────────────────────────
-   Paste this into BD Design Settings > Custom JS
-   Fetches 3 random listings from Algolia, one per educator where possible.
-   Also wires the hero search bar to /find-classes?q=
-   ──────────────────────────────────────────────────────────────────────── */
+// ─────────────────────────────────────────────
+//  LWEA · Homepage Listings
+//  Pulls from Algolia, deduplicates by educator,
+//  shows 3 newest listings in #lp-live-grid.
+// ─────────────────────────────────────────────
 
-(function () {
+const ALGOLIA_APP_ID    = 'V4Z6530MZ3';
+const ALGOLIA_SEARCH_KEY = '764e5cea43bb0f0373d65fd3a9edcfa1';
+const ALGOLIA_INDEX     = 'BD_class_posts';
 
-  /* ── Search bar ───────────────────────────────── */
-  function initSearch() {
-    var btn = document.getElementById('lp-search-btn');
-    var inp = document.getElementById('lp-search-input');
-    if (!btn || !inp) { return; }
-    function doSearch() {
-      var q = inp.value.trim();
-      if (!q) { window.location.href = '/find-classes'; return; }
-      window.location.href = '/find-classes?q=' + encodeURIComponent(q);
-    }
-    btn.addEventListener('click', doSearch);
-    inp.addEventListener('keydown', function (e) { if (e.key === 'Enter') { doSearch(); } });
+const GRID_ID      = 'lp-live-grid';
+const CARDS_TO_SHOW = 3;
+const FETCH_SIZE   = 100; // pull enough to survive dedup
+
+// ─── Fetch ───────────────────────────────────
+
+async function fetchListings() {
+  const url = `https://${ALGOLIA_APP_ID}-dsn.algolia.net/1/indexes/${ALGOLIA_INDEX}/query`;
+
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'X-Algolia-Application-Id': ALGOLIA_APP_ID,
+      'X-Algolia-API-Key': ALGOLIA_SEARCH_KEY,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      query: '',
+      hitsPerPage: FETCH_SIZE,
+      attributesToRetrieve: [
+        'title', 'category', 'tags', 'description',
+        'url', 'date_posted', 'educator_name', 'thumbnail'
+      ],
+    }),
+  });
+
+  if (!res.ok) throw new Error(`Algolia responded ${res.status}`);
+  const data = await res.json();
+  return data.hits || [];
+}
+
+// ─── Process ─────────────────────────────────
+
+function processHits(hits) {
+  // Sort newest first — date_posted may be a Unix timestamp (number)
+  // or an ISO string; Date.parse handles both.
+  hits.sort((a, b) => {
+    const da = a.date_posted ? Date.parse(a.date_posted) : 0;
+    const db = b.date_posted ? Date.parse(b.date_posted) : 0;
+    return db - da;
+  });
+
+  // One listing per educator — keep the newest one for each name
+  const seen = new Set();
+  const deduped = [];
+  for (const hit of hits) {
+    const name = (hit.educator_name || '').trim().toLowerCase();
+    if (!name || seen.has(name)) continue;
+    seen.add(name);
+    deduped.push(hit);
+    if (deduped.length === CARDS_TO_SHOW) break;
   }
 
-  /* ── Algolia listings ─────────────────────────── */
-  function safe(val) {
-    if (val === null || val === undefined) { return ''; }
-    return String(val);
+  return deduped;
+}
+
+// ─── Render ──────────────────────────────────
+
+function categoryLabel(hit) {
+  const cat = hit.category;
+  if (!cat) return '';
+  // category may be a string or single-element array from the scraper
+  return Array.isArray(cat) ? cat[0] : cat;
+}
+
+function tagChips(hit) {
+  const tags = hit.tags;
+  if (!tags || !tags.length) return '';
+  const list = Array.isArray(tags) ? tags : [tags];
+  // Show up to 3 tags so the card doesn't overflow
+  return list.slice(0, 3)
+    .map(t => `<span class="lp-live-tag">${escHtml(t)}</span>`)
+    .join('');
+}
+
+function coverHtml(hit) {
+  if (hit.thumbnail) {
+    return `<img src="${escHtml(hit.thumbnail)}"
+                 alt="${escHtml(hit.title || '')}"
+                 loading="lazy"
+                 onerror="this.style.display='none'">`;
   }
+  // Fallback — plain teal block keeps the card shape intact
+  return `<div class="lp-live-cover-fallback">📚</div>`;
+}
 
-  function clean(raw) {
-    try {
-      if (!raw) { return ''; }
-      var d = document.createElement('div');
-      d.innerHTML = safe(raw);
-      return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
-    } catch (e) { return ''; }
+function descSnippet(hit) {
+  const raw = hit.description || '';
+  // Strip any leftover HTML tags the scraper may have kept
+  const plain = raw.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  return plain.length > 160 ? plain.slice(0, 157) + '…' : plain;
+}
+
+function listingUrl(hit) {
+  // url field should be the full path or absolute URL from the scraper
+  const u = hit.url || '#';
+  return u.startsWith('http') ? u : `https://learn.everyavenue.com${u}`;
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function buildCard(hit) {
+  return `
+<a class="lp-live-card"
+   href="${listingUrl(hit)}"
+   target="_blank"
+   rel="noopener">
+  <div class="lp-live-cover">${coverHtml(hit)}</div>
+  <div class="lp-live-body">
+    <div class="lp-live-cat">${escHtml(categoryLabel(hit))}</div>
+    <div class="lp-live-title">${escHtml(hit.title || 'Untitled Listing')}</div>
+    <p class="lp-live-desc">${escHtml(descSnippet(hit))}</p>
+    <div class="lp-live-tags">${tagChips(hit)}</div>
+    <div class="lp-live-footer">
+      <span class="lp-live-price"></span>
+      <span class="lp-live-btn">View Listing</span>
+    </div>
+  </div>
+</a>`.trim();
+}
+
+// ─── Inject ──────────────────────────────────
+
+function renderCards(listings) {
+  const grid = document.getElementById(GRID_ID);
+  if (!grid) return;
+  grid.innerHTML = listings.map(buildCard).join('\n');
+}
+
+function renderError() {
+  // On failure, silently clear the shimmer — don't break the page layout
+  const grid = document.getElementById(GRID_ID);
+  if (grid) grid.innerHTML = '';
+}
+
+// ─── Boot ────────────────────────────────────
+
+(async () => {
+  try {
+    const hits     = await fetchListings();
+    const listings = processHits(hits);
+    renderCards(listings);
+  } catch (err) {
+    console.warn('[LWEA listings]', err);
+    renderError();
   }
-
-  function buildCard(hit) {
-    var title    = safe(hit.title) || 'Untitled';
-    var url      = safe(hit.url) || '/find-classes';
-    var category = safe(hit.category);
-    var desc     = clean(hit.description);
-    var format   = safe(hit.format);
-    var grades   = safe(hit.grades);
-    var rates    = safe(hit.rates);
-    var thumb    = safe(hit.thumbnail);
-
-    var coverInner = thumb
-      ? '<img src="' + thumb + '" alt="' + title + '" onerror="this.parentNode.innerHTML=\'<div class=lp-live-cover-fallback>&#128218;</div>\'">'
-      : '<div class="lp-live-cover-fallback">&#128218;</div>';
-
-    var tags = '';
-    if (format) { tags += '<span class="lp-live-tag">' + format + '</span>'; }
-    if (grades) { tags += '<span class="lp-live-tag">' + grades + '</span>'; }
-
-    return '<a class="lp-live-card" href="' + url + '">'
-      + '<div class="lp-live-cover">' + coverInner + '</div>'
-      + '<div class="lp-live-body">'
-      + (category ? '<div class="lp-live-cat">' + category + '</div>' : '')
-      + '<div class="lp-live-title">' + title + '</div>'
-      + (desc ? '<div class="lp-live-desc">' + desc + '</div>' : '')
-      + (tags ? '<div class="lp-live-tags">' + tags + '</div>' : '')
-      + '<div class="lp-live-footer">'
-      + '<span class="lp-live-price">' + (rates ? rates : '') + '</span>'
-      + '<span class="lp-live-btn">View Listing &rarr;</span>'
-      + '</div>'
-      + '</div>'
-      + '</a>';
-  }
-
-  function shuffle(arr) {
-    var a = arr.slice();
-    for (var i = a.length - 1; i > 0; i--) {
-      var j = Math.floor(Math.random() * (i + 1));
-      var tmp = a[i]; a[i] = a[j]; a[j] = tmp;
-    }
-    return a;
-  }
-
-  function loadListings() {
-    var grid = document.getElementById('lp-live-grid');
-    if (!grid) { return; }
-
-    var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'https://V4Z6530MZ3-dsn.algolia.net/1/indexes/BD_class_posts/query', true);
-    xhr.setRequestHeader('Content-Type', 'application/json');
-    xhr.setRequestHeader('X-Algolia-API-Key', '764e5cea43bb0f0373d65fd3a9edcfa1');
-    xhr.setRequestHeader('X-Algolia-Application-Id', 'V4Z6530MZ3');
-
-    xhr.onload = function () {
-      try {
-        var data = JSON.parse(xhr.responseText);
-        var hits = data.hits || [];
-        if (hits.length === 0) { return; }
-
-        var chosen = [];
-        var seen = {};
-        var shuffled = shuffle(hits);
-
-        /* First pass: one listing per educator */
-        for (var i = 0; i < shuffled.length && chosen.length < 3; i++) {
-          var key = shuffled[i].educator_name || 'x';
-          if (!seen[key]) {
-            seen[key] = true;
-            chosen.push(shuffled[i]);
-          }
-        }
-        /* Second pass: fill remaining slots if fewer than 3 educators */
-        for (var j = 0; j < shuffled.length && chosen.length < 3; j++) {
-          if (chosen.indexOf(shuffled[j]) === -1) {
-            chosen.push(shuffled[j]);
-          }
-        }
-
-        var html = '';
-        for (var k = 0; k < chosen.length; k++) {
-          var cls = k === 2 ? 'lp-listing-hide-mobile' : '';
-          html += '<div class="' + cls + '">' + buildCard(chosen[k]) + '</div>';
-        }
-        grid.innerHTML = html;
-
-      } catch (e) { /* Silent fail — shimmer cards remain */ }
-    };
-
-    xhr.onerror = function () { /* Silent fail */ };
-
-    xhr.send(JSON.stringify({
-      hitsPerPage: 100,
-      attributesToRetrieve: ['title', 'url', 'category', 'description', 'format', 'grades', 'rates', 'thumbnail', 'educator_name']
-    }));
-  }
-
-  /* ── Init ─────────────────────────────────────── */
-  function init() {
-    initSearch();
-    loadListings();
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
-  }
-
 })();
