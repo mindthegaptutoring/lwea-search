@@ -12,10 +12,10 @@
     var inner = thumb
       ? '<img src="' + thumb + '" alt="' + title.replace(/"/g, '') + '" loading="lazy" onerror="this.parentNode.innerHTML=\'<div class=lp-mq-fallback></div>\'">'
       : '<div class="lp-mq-fallback"></div>';
-    return '<a class="lp-mq-card" href="' + url + '" title="' + title.replace(/"/g, '') + '" onclick="event.stopPropagation();">'
+    return '<div class="lp-mq-card" onclick="window.location.href=\'' + url + '\'" style="cursor:pointer;">'
       + inner
       + '<div class="lp-mq-label">' + title + '</div>'
-      + '</a>';
+      + '</div>';
   }
 
   function shuffle(arr) {
