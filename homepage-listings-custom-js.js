@@ -12,7 +12,7 @@
     var inner = thumb
       ? '<img src="' + thumb + '" alt="' + title.replace(/"/g, '') + '" loading="lazy" onerror="this.parentNode.innerHTML=\'<div class=lp-mq-fallback></div>\'">'
       : '<div class="lp-mq-fallback"></div>';
-    return '<a class="lp-mq-card" href="' + url + '" title="' + title.replace(/"/g, '') + '">'
+    return '<a class="lp-mq-card" href="' + url + '" title="' + title.replace(/"/g, '') + '" onclick="event.stopPropagation();">'
       + inner
       + '<div class="lp-mq-label">' + title + '</div>'
       + '</a>';
