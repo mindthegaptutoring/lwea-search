@@ -7,7 +7,7 @@
 
   function buildMarqueeCard(hit) {
     var title = safe(hit.title) || 'Untitled';
-    var url   = safe(hit.url) || '/test';
+    var url   = safe(hit.url) || '/find-classes';
     var thumb = safe(hit.thumbnail);
     var inner = thumb
       ? '<img src="' + thumb + '" alt="' + title.replace(/"/g, '') + '" loading="lazy" onerror="this.parentNode.innerHTML=\'<div class=lp-mq-fallback></div>\'">'
