@@ -129,6 +129,8 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     <div class="fhr"></div>
     <div class="fblock"><div class="flbl">Delivery</div><div id="filter-delivery"></div></div>
     <div id="clear-refinements"></div>
+    <div class="fhr"></div>
+    <div class="fblock"><div class="flbl">Class Size</div><div id="filter-cohort"></div></div>
   </aside>
   <div id="lwea-results">
     <button id="filter-toggle" onclick="var f=document.getElementById('lwea-filters');var open=f.classList.toggle('open');this.querySelector('span').textContent=open?'&#9650; Hide':'&#9660; Show';">
@@ -264,6 +266,10 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     instantsearch.widgets.refinementList({ container: '#filter-grades', attribute: 'grades', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-scheduling', attribute: 'scheduling', limit: 10, sortBy: ['name:asc'] }),
     instantsearch.widgets.refinementList({ container: '#filter-delivery', attribute: 'delivery_method', limit: 5, sortBy: ['name:asc'] }),
+    instantsearch.widgets.refinementList({ container: '#filter-cohort', attribute: 'cohort_size', limit: 5, transformItems: function(items) { var order = ['2–5 students', '6–10 students', '11+ students'];
+    return items.sort(function(a, b) { return order.indexOf(a.label) - order.indexOf(b.label); });
+  }
+}),
     instantsearch.widgets.clearRefinements({ container: '#clear-refinements' }),
     instantsearch.widgets.currentRefinements({ container: '#current-refinements' }),
     instantsearch.widgets.stats({
