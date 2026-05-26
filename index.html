@@ -4,9 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Find an Educator – Learn with Every Avenue</title>
-<!-- v1.5 — updated field names to match BD API sync script v4.0:
-     url→listing_url, category→subject, rates→class_rates
-     profile_photo now sourced from nested user in listing record -->
+<!-- v1.6 — added Algolia click analytics (clickAnalytics, insights middleware, sendEvent on hit click) -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/4.64.1/instantsearch.min.css"/>
 <style>
@@ -167,16 +165,17 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     } catch(e) { return ''; }
   }
 
-  function renderCard(hit) {
+  // CHANGE 1: renderCard now accepts sendEvent so clicks are tracked
+  function renderCard(hit, sendEvent) {
     try {
       var title = safe((hit._highlightResult && hit._highlightResult.title) ? hit._highlightResult.title.value : hit.title) || 'Untitled';
-      var url = safe(hit.listing_url) || '#';          /* was hit.url */
+      var url = safe(hit.listing_url) || '#';
       var subject = safe(hit.category);
       var desc = clean(hit.description);
       var format = safe(hit.format);
       var grades = Array.isArray(hit.grades) ? hit.grades.join(', ') : safe(hit.grades);
       var delivery = safe(hit.delivery_method);
-      var rates = safe(hit.class_rates);               /* was hit.rates */
+      var rates = safe(hit.class_rates);
       var thumbnail = safe(hit.thumbnail);
       var profile_photo = safe(hit.profile_photo);
       var ini = (title || '?')[0].toUpperCase();
@@ -189,7 +188,12 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
         ? '<img class="havatar" src="' + profile_photo + '" alt="" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'"/><div class="hinitial" style="display:none">' + ini + '</div>'
         : '<div class="hinitial">' + ini + '</div>';
 
-      return '<a class="hcard-link" href="' + url + '" target="_blank">'
+      // CHANGE 2: data-insights-object-id and data-insights-position attributes
+      // allow the insights middleware to pick up clicks automatically
+      return '<a class="hcard-link" href="' + url + '" target="_blank"'
+        + ' data-insights-object-id="' + safe(hit.objectID) + '"'
+        + ' data-insights-position="' + safe(hit.__position) + '"'
+        + ' data-insights-query-id="' + safe(hit.__queryID) + '">'
         + coverHtml
         + '<div class="hhead">' + av
         + '<div class="hhead-text">'
@@ -252,13 +256,17 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
   var search = instantsearch({
     indexName: 'BD_class_posts',
     searchClient: algoliasearch('V4Z6530MZ3', '764e5cea43bb0f0373d65fd3a9edcfa1'),
-    initialUiState: { BD_class_posts: { query: textQuery } }
+    initialUiState: { BD_class_posts: { query: textQuery } },
+    // CHANGE 3: enable insights middleware — this is what powers all click analytics
+    insights: true
   });
 
   search.addWidgets([
     instantsearch.widgets.configure({
       hitsPerPage: 12,
-      filters: subjectFilter ? 'category:"' + subjectFilter + '"' : ''
+      filters: subjectFilter ? 'category:"' + subjectFilter + '"' : '',
+      // CHANGE 4: tell Algolia to return queryID with every result (required for click tracking)
+      clickAnalytics: true
     }),
     instantsearch.widgets.searchBox({ container: '#searchbox', placeholder: 'Search subjects, topics, grade levels...', showReset: true }),
     instantsearch.widgets.refinementList({ container: '#filter-subject', attribute: 'category', limit: 10, sortBy: ['name:asc'] }),
@@ -279,12 +287,32 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     instantsearch.widgets.hits({
       container: '#hits',
       templates: {
-        item: function(hit) { return renderCard(hit); },
+        // CHANGE 5: pass sendEvent into renderCard
+        item: function(hit, bindEvent) { return renderCard(hit, bindEvent); },
         empty: function(r) { return '<div class="hempty"><h3>No results for "' + safe(r.query) + '"</h3><p>Try different keywords or clear some filters</p></div>'; }
       }
     }),
     instantsearch.widgets.pagination({ container: '#pagination', padding: 2 }),
   ]);
+
+  // CHANGE 6: fire click event when a listing card is clicked
+  // Uses data attributes set in renderCard so no card rebuild needed
+  document.addEventListener('click', function(e) {
+    var card = e.target.closest('[data-insights-object-id]');
+    if (!card) return;
+    var objectID = card.getAttribute('data-insights-object-id');
+    var position = parseInt(card.getAttribute('data-insights-position'), 10);
+    var queryID  = card.getAttribute('data-insights-query-id');
+    if (objectID && queryID && search.insightsClient) {
+      search.insightsClient('clickedObjectIDsAfterSearch', {
+        eventName: 'Listing Clicked',
+        index: 'BD_class_posts',
+        queryID: queryID,
+        objectIDs: [objectID],
+        positions: [position]
+      });
+    }
+  });
 
   search.start();
 })();
