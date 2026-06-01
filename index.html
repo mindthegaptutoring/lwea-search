@@ -101,9 +101,31 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 #lwea-rhead-right { display: flex; align-items: center; gap: 12px; }
 #lwea-clear-search a { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; color: #888; background: var(--white); border: 1px solid var(--soft); border-radius: 20px; padding: 4px 12px; text-decoration: none; transition: all 0.15s; }
 #lwea-clear-search a:hover { color: var(--coral); border-color: var(--coral); background: rgba(255,111,97,0.05); }
+
+  .educator-cta {
+  margin-top: 16px;
+  font-size: 13px;
+  color: rgba(255,255,255,0.5);
+  font-family: 'Inter', sans-serif;
+}
+.educator-cta a {
+  display: inline-block;
+  background: #FF6F61;
+  color: #fff !important;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 7px 18px;
+  border-radius: 8px;
+  text-decoration: none !important;
+  margin-left: 8px;
+  font-family: 'Inter', sans-serif;
+}
+.educator-cta a:hover { background: #e55a5a; }
 </style>
 </head>
-<body>
+
+  
+  <body>
 
 <div id="lwea-header">
   <h1>Find an Educator</h1>
@@ -112,6 +134,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
     <div id="searchbox"></div>
     <p class="hint">Try "nature science grade 5" or "writing flexible schedule"</p>
   </div>
+   <p class="educator-cta">Teach something? <a href="/join">Get Listed &rarr;</a></p>
 </div>
 
 <div id="lwea-body">
