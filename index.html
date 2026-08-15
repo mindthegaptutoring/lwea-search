@@ -80,13 +80,26 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--gra
 .ais-Highlight-highlighted { background: rgba(42,183,169,0.3); color: var(--slate); font-style: normal; }
 .hbody { padding: 12px 14px; flex: 1; display: flex; flex-direction: column; overflow: hidden; }
 .hdesc { font-size: 12px; color: #666; line-height: 1.55; margin-bottom: 8px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; flex: 1; }
-.hmeta { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
+.hmeta { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; max-height: 56px; overflow: hidden; } /* capped at ~2 rows so an educator with many tags doesn't grow the card */
 .htag { font-size: 11px; font-weight: 500; padding: 2px 8px; border-radius: 20px; border: 1px solid var(--soft); color: #777; background: var(--bg); }
 .htag.fmt { background: rgba(42,183,169,0.08); color: var(--teal-h); border-color: rgba(42,183,169,0.2); }
 .htag.grd { background: rgba(19,29,45,0.05); color: var(--slate); border-color: rgba(19,29,45,0.12); }
-.hfoot { display: flex; align-items: center; justify-content: space-between; padding-top: 8px; border-top: 1px solid #eee; margin-top: auto; gap: 8px; }
-.hprice { font-size: 11px; color: #999; }
-.hbtn { display: inline-block; padding: 6px 14px; background: var(--teal); color: white; border-radius: 10px; text-decoration: none; font-size: 11px; font-weight: 600; transition: background 0.2s; white-space: nowrap; }
+/* FIX (Aug 2026): .hfoot was a single ROW (price + button side by side).
+   Long educator pricing notes squeezed .hbtn ("View Listing") and made it
+   wrap mid-word. Changed to a COLUMN instead: price on its own line (free
+   to wrap, never truncated), button on its own line below, right-aligned.
+   Do not put .hprice and .hbtn back on the same row without re-solving
+   this — it has broken before. Cards that surfaced the bug: GCSE Maths,
+   Math Is a Language, Radical Roots. */
+.hfoot { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; padding-top: 8px; border-top: 1px solid #eee; margin-top: auto; }
+/* Capped at 2 lines (was uncapped) so every card ends up the same total
+   height regardless of how long an educator's pricing note runs. Combined
+   with .htitle (2-line clamp) and .hdesc (4-line clamp) below, this makes
+   card height fixed without hardcoding a pixel value. Do not remove the
+   line-clamp here without a plan for what replaces it — see chat history
+   Aug 2026 re: "View Listing" wrap bug + card-size uniformity request. */
+.hprice { font-size: 11px; color: #999; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.hbtn { display: inline-block; padding: 6px 14px; background: var(--teal); color: white; border-radius: 10px; text-decoration: none; font-size: 11px; font-weight: 600; transition: background 0.2s; white-space: nowrap; align-self: flex-end; }
 .hbtn:hover { background: var(--teal-h); }
 .hempty { text-align: center; padding: 50px 20px; background: var(--white); border-radius: var(--r); border: 1px solid var(--soft); }
 .hempty h3 { font-size: 1.1rem; font-weight: 700; color: var(--gray); margin-bottom: 6px; }
