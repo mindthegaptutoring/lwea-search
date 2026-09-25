@@ -25,7 +25,9 @@
           "Direct": 2,
           "Organic Search": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -51,7 +53,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -76,7 +80,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -101,7 +107,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -127,7 +135,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -152,7 +162,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -178,7 +190,11 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 2
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -203,7 +219,11 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -228,7 +248,11 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -253,7 +277,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -278,7 +304,9 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -302,7 +330,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -327,7 +357,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -351,7 +383,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -382,7 +416,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -414,7 +450,11 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 2
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -439,7 +479,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -465,7 +507,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -490,7 +534,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -516,7 +562,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -541,7 +589,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -566,7 +616,11 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -590,7 +644,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -614,7 +670,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -639,7 +697,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -661,7 +721,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -686,7 +748,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -711,7 +775,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -736,7 +802,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -762,7 +830,9 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -786,7 +856,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -811,7 +883,9 @@
           "Organic Search": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -837,7 +911,11 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -862,7 +940,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -886,7 +966,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -911,7 +993,9 @@
           "Direct": 3,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -938,7 +1022,9 @@
           "Organic Search": 1,
           "Referral": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -969,7 +1055,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -995,7 +1083,11 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 4
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1020,7 +1112,9 @@
           "Direct": 4,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1045,7 +1139,11 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1070,7 +1168,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1095,7 +1195,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1119,7 +1221,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1144,7 +1248,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1169,7 +1275,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1194,7 +1302,9 @@
           "Direct": 3,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1221,7 +1331,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -1247,7 +1359,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1273,7 +1387,11 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1299,7 +1417,11 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 2,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1324,7 +1446,9 @@
           "Direct": 1,
           "Organic Social": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1348,7 +1472,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1374,7 +1500,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1399,7 +1527,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1421,7 +1551,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -1443,7 +1575,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -1468,7 +1602,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1494,7 +1630,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1519,7 +1657,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1543,7 +1683,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1568,7 +1710,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -1592,7 +1736,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1617,7 +1763,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1641,7 +1789,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1672,7 +1822,9 @@
           "Organic Search": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1697,7 +1849,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1722,7 +1876,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1746,7 +1902,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1771,7 +1929,9 @@
           "Direct": 3,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1795,7 +1955,9 @@
         "traffic_sources": {
           "Direct": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1817,7 +1979,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -1843,7 +2007,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -1867,7 +2033,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1894,7 +2062,11 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1919,7 +2091,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1945,7 +2119,11 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -1971,7 +2149,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -1997,7 +2177,9 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2022,7 +2204,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2044,7 +2228,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2066,7 +2252,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -2091,7 +2279,9 @@
           "Direct": 3,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2115,7 +2305,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2140,7 +2332,11 @@
           "Organic Social": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -2165,7 +2361,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2191,7 +2389,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2218,7 +2418,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2243,7 +2445,9 @@
           "Direct": 1,
           "Organic Social": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2267,7 +2471,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2292,7 +2498,11 @@
           "Direct": 4,
           "Unassigned": 2
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -2316,7 +2526,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2341,7 +2553,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2366,7 +2580,9 @@
           "Direct": 3,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2391,7 +2607,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2415,7 +2633,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2439,7 +2659,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2464,7 +2686,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2489,7 +2713,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2515,7 +2741,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2537,7 +2765,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -2562,7 +2792,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2588,7 +2820,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2613,7 +2847,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2637,7 +2873,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2662,7 +2900,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2687,7 +2927,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2712,7 +2954,11 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -2737,7 +2983,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2762,7 +3010,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2786,7 +3036,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2812,7 +3064,11 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -2837,7 +3093,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 1,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2870,7 +3128,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2894,7 +3154,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2921,7 +3183,9 @@
           "Referral": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2947,7 +3211,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2975,7 +3241,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2999,7 +3267,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3021,7 +3291,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3051,7 +3323,9 @@
         "traffic_sources": {
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -3076,7 +3350,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3100,7 +3376,9 @@
         "traffic_sources": {
           "Direct": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3126,7 +3404,11 @@
           "Organic Social": 2,
           "Unassigned": 2
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 2
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -3152,7 +3434,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3174,7 +3458,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3199,7 +3485,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3225,7 +3513,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3250,7 +3540,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3275,7 +3567,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3300,7 +3594,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3326,7 +3622,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3351,7 +3649,9 @@
           "Organic Search": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3378,7 +3678,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 1,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3403,7 +3705,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3429,7 +3733,9 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3451,7 +3757,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3473,7 +3781,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3495,7 +3805,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3520,7 +3832,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3542,7 +3856,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3567,7 +3883,9 @@
           "Direct": 2,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3593,7 +3911,9 @@
           "Organic Social": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3615,7 +3935,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3640,7 +3962,9 @@
           "Direct": 1,
           "Organic Search": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3666,7 +3990,9 @@
           "Referral": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3688,7 +4014,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3720,7 +4048,9 @@
           "Direct": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3746,7 +4076,11 @@
           "Referral": 4,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 3
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -3773,7 +4107,11 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {
+          "(not set)": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -3801,7 +4139,11 @@
           "Organic Search": 1,
           "Unassigned": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 2
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -3823,7 +4165,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3849,7 +4193,9 @@
           "Unassigned": 2,
           "Direct": 1
         },
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -3871,7 +4217,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     },
@@ -3893,7 +4241,9 @@
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
         "traffic_sources": {},
-        "contact_clicks": 0
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
     }
