@@ -1,6 +1,24 @@
 {
   "generated_at": "2026-09-25",
   "lookback_days": 28,
+  "triage_thresholds": {
+    "profile": {
+      "low_visibility_max": 0,
+      "high_visibility_min": 4,
+      "low_ctr_max": 0,
+      "meaningful_sessions_min": 2,
+      "low_engagement_max": 3.0,
+      "sample_size": 48
+    },
+    "listing": {
+      "low_visibility_max": 0,
+      "high_visibility_min": 2,
+      "low_ctr_max": 0,
+      "meaningful_sessions_min": 2,
+      "low_engagement_max": 3.5,
+      "sample_size": 107
+    }
+  },
   "listings": [
     {
       "member_id": "21",
@@ -29,7 +47,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "21",
@@ -84,7 +102,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "24",
@@ -166,7 +184,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "25",
@@ -254,7 +272,7 @@
           "(not set)": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "25",
@@ -281,7 +299,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "25",
@@ -361,7 +379,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "29",
@@ -420,7 +438,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "31",
@@ -456,7 +474,7 @@
           "(not set)": 2
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "32",
@@ -483,7 +501,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "33",
@@ -538,7 +556,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "33",
@@ -648,7 +666,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "34",
@@ -701,7 +719,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "35",
@@ -725,7 +743,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "35",
@@ -779,7 +797,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "36",
@@ -860,7 +878,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "37",
@@ -887,7 +905,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "37",
@@ -944,7 +962,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "37",
@@ -970,7 +988,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "38",
@@ -997,7 +1015,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "38",
@@ -1026,7 +1044,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "39",
@@ -1059,7 +1077,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "39",
@@ -1089,7 +1107,7 @@
           "(not set)": 4
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "40",
@@ -1116,7 +1134,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "40",
@@ -1172,7 +1190,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "42",
@@ -1279,7 +1297,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "44",
@@ -1335,7 +1353,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "45",
@@ -1363,7 +1381,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "45",
@@ -1476,7 +1494,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "45",
@@ -1531,7 +1549,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "46",
@@ -1606,7 +1624,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "47",
@@ -1634,7 +1652,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "47",
@@ -1687,7 +1705,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "47",
@@ -1714,7 +1732,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "47",
@@ -1767,7 +1785,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "47",
@@ -1826,7 +1844,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "47",
@@ -1853,7 +1871,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "47",
@@ -1880,7 +1898,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "51",
@@ -1906,7 +1924,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "51",
@@ -1933,7 +1951,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "51",
@@ -1959,7 +1977,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "53",
@@ -2011,7 +2029,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "55",
@@ -2125,7 +2143,7 @@
           "(not set)": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "56",
@@ -2153,7 +2171,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "57",
@@ -2181,7 +2199,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "57",
@@ -2232,7 +2250,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "57",
@@ -2283,7 +2301,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "57",
@@ -2309,7 +2327,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "57",
@@ -2338,7 +2356,7 @@
           "(not set)": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "57",
@@ -2365,7 +2383,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "57",
@@ -2393,7 +2411,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "60",
@@ -2422,7 +2440,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "60",
@@ -2530,7 +2548,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "66",
@@ -2584,7 +2602,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "66",
@@ -2904,7 +2922,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "74",
@@ -2960,7 +2978,7 @@
           "(not set)": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "76",
@@ -2987,7 +3005,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "76",
@@ -3097,7 +3115,7 @@
         "connect_pageviews": 1,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "79",
@@ -3132,7 +3150,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "79",
@@ -3215,7 +3233,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "81",
@@ -3245,7 +3263,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "81",
@@ -3327,7 +3345,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "90",
@@ -3354,7 +3372,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "90",
@@ -3380,7 +3398,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "90",
@@ -3410,7 +3428,7 @@
           "(not set)": 2
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "91",
@@ -3438,7 +3456,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "91",
@@ -3462,7 +3480,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "92",
@@ -3489,7 +3507,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "92",
@@ -3653,7 +3671,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "94",
@@ -3682,7 +3700,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "94",
@@ -3709,7 +3727,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "95",
@@ -3737,7 +3755,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "95",
@@ -3761,7 +3779,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "95",
@@ -3785,7 +3803,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "95",
@@ -3836,7 +3854,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "99",
@@ -3887,7 +3905,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "99",
@@ -3915,7 +3933,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "99",
@@ -3966,7 +3984,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "100",
@@ -4052,7 +4070,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "104",
@@ -4145,7 +4163,7 @@
           "(not set)": 2
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "107",
