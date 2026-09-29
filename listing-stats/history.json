@@ -1,6 +1,5 @@
 {
   "generated_at": "2026-09-29",
-  "lookback_days": 28,
   "history_max_weeks": 52,
   "history": {
     "https://www.learnwitheveryavenue.com/tutoring/kristen-thatcher": [
@@ -281,31 +280,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 8,
-        "avg_engagement_seconds": 14.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 8,
-        "avg_engagement_seconds": 14.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -595,31 +570,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -909,31 +860,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 5.7,
-        "sessions": 3,
-        "avg_engagement_seconds": 14.7,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 5.7,
-        "sessions": 3,
-        "avg_engagement_seconds": 14.7,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 3,
         "clicks": 0,
         "ctr": 0,
@@ -1223,31 +1150,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -1573,31 +1476,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -1887,31 +1766,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -2213,31 +2068,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -2527,31 +2358,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -2865,31 +2672,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 3,
-        "avg_engagement_seconds": 9.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 3,
-        "avg_engagement_seconds": 9.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -3179,31 +2962,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -3517,31 +3276,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 2.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 2.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -3831,31 +3566,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -4145,31 +3856,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -4459,31 +4146,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 8.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 8.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -4773,31 +4436,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -5099,31 +4738,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -5413,31 +5028,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -5727,31 +5318,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -6041,31 +5608,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -6355,31 +5898,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -6669,31 +6188,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -6983,31 +6478,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -7297,31 +6768,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -7623,31 +7070,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -7937,31 +7360,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -8251,31 +7650,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.5,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.5,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -8577,31 +7952,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -8891,31 +8242,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -9217,31 +8544,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 9,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 9,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -9531,31 +8834,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -9857,31 +9136,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -10183,31 +9438,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 1,
-        "ctr": 0.2,
-        "position": 7.2,
-        "sessions": 2,
-        "avg_engagement_seconds": 20.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 1,
-        "ctr": 0.2,
-        "position": 7.2,
-        "sessions": 2,
-        "avg_engagement_seconds": 20.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 5,
         "clicks": 1,
         "ctr": 0.2,
@@ -10497,31 +9728,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -10811,31 +10018,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -11125,31 +10308,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 7,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.1,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 7,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.1,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 7,
         "clicks": 0,
         "ctr": 0,
@@ -11439,31 +10598,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -11765,31 +10900,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 4,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 9,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 4,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 9,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 4,
         "clicks": 0,
         "ctr": 0,
@@ -12079,31 +11190,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -12405,31 +11492,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8.7,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8.7,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 3,
         "clicks": 0,
         "ctr": 0,
@@ -12719,31 +11782,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 3,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 3,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -13069,31 +12108,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 62.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 62.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -13383,31 +12398,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -13721,31 +12712,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -14035,31 +13002,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -14361,31 +13304,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -14675,31 +13594,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -15013,31 +13908,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -15327,31 +14198,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -15665,31 +14512,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 17.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 17.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -15991,31 +14814,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -16317,31 +15116,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 10,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 10,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -16631,31 +15406,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -16945,31 +15696,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -17259,31 +15986,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -17573,31 +16276,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -17887,31 +16566,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -18201,31 +16856,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -18539,31 +17170,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -18853,31 +17460,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -19167,31 +17750,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -19481,31 +18040,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 3,
         "clicks": 0,
         "ctr": 0,
@@ -19795,31 +18330,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 6,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8.3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 6,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8.3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 6,
         "clicks": 0,
         "ctr": 0,
@@ -20109,31 +18620,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -20423,31 +18910,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -20737,31 +19200,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -21063,31 +19502,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 1,
-        "ctr": 1,
-        "position": 2,
-        "sessions": 2,
-        "avg_engagement_seconds": 14.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 1,
-        "ctr": 1,
-        "position": 2,
-        "sessions": 2,
-        "avg_engagement_seconds": 14.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 1,
         "ctr": 1,
@@ -21401,31 +19816,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -21739,31 +20130,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -22053,31 +20420,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -22367,31 +20710,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -22681,31 +21000,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -22995,31 +21290,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -23309,31 +21580,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 5,
         "clicks": 0,
         "ctr": 0,
@@ -23623,31 +21870,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -23937,31 +22160,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -24251,31 +22450,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -24565,31 +22740,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -24879,31 +23030,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -25193,31 +23320,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -25507,31 +23610,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -25821,31 +23900,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -26135,31 +24190,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 11,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 11,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -26449,31 +24480,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -26763,31 +24770,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 7,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 7,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.3,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 7,
         "clicks": 0,
         "ctr": 0,
@@ -27077,31 +25060,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 5.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 5.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -27391,31 +25350,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -27705,31 +25640,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -28019,31 +25930,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 6,
-        "avg_engagement_seconds": 1.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 6,
-        "avg_engagement_seconds": 1.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -28333,31 +26220,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -28647,31 +26510,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 4,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 4,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 4,
         "clicks": 0,
         "ctr": 0,
@@ -28961,31 +26800,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 5,
-        "avg_engagement_seconds": 8.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 5,
-        "avg_engagement_seconds": 8.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -29275,31 +27090,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 5.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 5.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -29589,31 +27380,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -29903,31 +27670,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -30217,31 +27960,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -30531,31 +28250,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -30845,31 +28540,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -31171,31 +28842,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -31509,31 +29156,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -31823,31 +29446,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 15.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 15.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -32137,31 +29736,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -32451,31 +30026,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -32765,31 +30316,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -33079,31 +30606,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 38.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 38.5,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -33393,31 +30896,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -33707,31 +31186,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -34021,31 +31476,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -34335,31 +31766,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -34649,31 +32056,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -34963,31 +32346,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -35277,31 +32636,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.6,
-        "sessions": 2,
-        "avg_engagement_seconds": 13.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.6,
-        "sessions": 2,
-        "avg_engagement_seconds": 13.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 5,
         "clicks": 0,
         "ctr": 0,
@@ -35591,31 +32926,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 50,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.6,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 50,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7.6,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 50,
         "clicks": 0,
         "ctr": 0,
@@ -35905,31 +33216,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -36219,31 +33506,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 20.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 20.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -36533,31 +33796,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 1,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 1,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -36847,31 +34086,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -37161,31 +34376,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 9,
-        "avg_engagement_seconds": 2.9,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 9,
-        "avg_engagement_seconds": 2.9,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -37475,31 +34666,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -37789,31 +34956,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -38103,31 +35246,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -38417,31 +35536,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -38731,31 +35826,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -39045,31 +36116,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -39359,31 +36406,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 28.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 28.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -39673,31 +36696,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -39987,31 +36986,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -40301,31 +37276,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -40615,31 +37566,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -40929,31 +37856,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 10.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 10.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -41243,31 +38146,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 7,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -41281,31 +38160,7 @@
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A0the-transformational-teen-experience%F0%9F%92%96-for-bright-sensitive-deep-thinking-different-teens": [
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -41319,31 +38174,7 @@
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A0how-does-my-brain-learn-grow-science-for-kids-aged-6-12-their-parents": [
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 32,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 32,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -41357,31 +38188,7 @@
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A08-days-of-reading-wellbeing-brain-science-in-the-aussie-bush-%F0%9F%8C%BF-age-6-12-%F0%9F%93%96": [
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -41671,31 +38478,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -41985,31 +38768,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 29.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 29.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -42299,31 +39058,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 6,
-        "avg_engagement_seconds": 10.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 6,
-        "avg_engagement_seconds": 10.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -42613,31 +39348,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 10,
-        "sessions": 2,
-        "avg_engagement_seconds": 9.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 10,
-        "sessions": 2,
-        "avg_engagement_seconds": 9.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 0,
         "ctr": 0,
@@ -42927,31 +39638,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.3,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.3,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 3,
         "clicks": 0,
         "ctr": 0,
@@ -43241,31 +39928,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 1,
-        "ctr": 1,
-        "position": 3,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 1,
-        "clicks": 1,
-        "ctr": 1,
-        "position": 3,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 1,
         "clicks": 1,
         "ctr": 1,
@@ -43555,31 +40218,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.5,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.5,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -43869,31 +40508,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -44183,31 +40798,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 8,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.9,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 8,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4.9,
-        "sessions": 1,
-        "avg_engagement_seconds": 6.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 8,
         "clicks": 0,
         "ctr": 0,
@@ -44497,31 +41088,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 3.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -44811,31 +41378,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -45125,31 +41668,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2.5,
-        "sessions": 3,
-        "avg_engagement_seconds": 13.3,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 2.5,
-        "sessions": 3,
-        "avg_engagement_seconds": 13.3,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -45439,31 +41958,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -45753,31 +42248,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 5.5,
-        "sessions": 3,
-        "avg_engagement_seconds": 23.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 5.5,
-        "sessions": 3,
-        "avg_engagement_seconds": 23.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "healthy"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -46067,31 +42538,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 98.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 8,
-        "sessions": 1,
-        "avg_engagement_seconds": 98.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0,
@@ -46381,31 +42828,7 @@
         "triage_flag": null
       },
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 33.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
@@ -46419,31 +42842,7 @@
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/geometry-formula-guide-everything-you-need-in-one-printable-pdf": [
       {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "new_no_data"
-      },
-      {
-        "date": "2026-09-29",
+        "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0,
