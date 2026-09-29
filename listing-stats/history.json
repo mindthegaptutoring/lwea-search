@@ -1,5 +1,6 @@
 {
   "generated_at": "2026-09-29",
+  "lookback_days": 28,
   "history_max_weeks": 52,
   "history": {
     "https://www.learnwitheveryavenue.com/tutoring/kristen-thatcher": [
@@ -34381,8 +34382,8 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
-        "sessions": 9,
-        "avg_engagement_seconds": 2.9,
+        "sessions": 10,
+        "avg_engagement_seconds": 2.6,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
