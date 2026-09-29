@@ -3306,12 +3306,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 9,
-        "pageviews": 9,
-        "avg_engagement_seconds": 2.9,
+        "sessions": 10,
+        "pageviews": 10,
+        "avg_engagement_seconds": 2.6,
         "traffic_sources": {
           "Organic Social": 5,
-          "Cross-network": 2,
+          "Cross-network": 3,
           "Direct": 1,
           "Referral": 1,
           "Unassigned": 1
