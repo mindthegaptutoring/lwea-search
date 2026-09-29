@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-09-29",
   "lookback_days": 28,
   "triage_thresholds": {
     "profile": {
       "low_visibility_max": 0,
-      "high_visibility_min": 3,
+      "high_visibility_min": 4,
       "low_ctr_max": 0,
       "meaningful_sessions_min": 2,
       "low_engagement_max": 3.0,
-      "sample_size": 45
+      "sample_size": 46
     },
     "listing": {
       "low_visibility_max": 0,
       "high_visibility_min": 2,
       "low_ctr_max": 0,
       "meaningful_sessions_min": 2,
-      "low_engagement_max": 5.4,
-      "sample_size": 103
+      "low_engagement_max": 5.8,
+      "sample_size": 104
     }
   },
   "listings": [
@@ -29,9 +29,9 @@
       "posted_date": "2026-01-08",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 2,
         "top_queries": []
       },
       "ga4": {
@@ -49,7 +49,7 @@
           "mindthegaptutoring.ca": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "21",
@@ -676,7 +676,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "34",
@@ -902,18 +902,18 @@
       "posted_date": "2026-09-07",
       "gsc": {
         "clicks": 2,
-        "impressions": 7,
-        "ctr": 0.2857142857142857,
-        "position": 12.4,
+        "impressions": 8,
+        "ctr": 0.25,
+        "position": 11.8,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 19.7,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 20.5,
         "traffic_sources": {
-          "Organic Search": 2,
-          "Direct": 1
+          "Direct": 1,
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1047,14 +1047,13 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 5,
-        "avg_engagement_seconds": 24.0,
+        "sessions": 4,
+        "pageviews": 4,
+        "avg_engagement_seconds": 27.0,
         "traffic_sources": {
           "Direct": 2,
           "Email": 1,
-          "Organic Search": 1,
-          "Referral": 1
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1151,7 +1150,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "40",
@@ -1190,9 +1189,9 @@
       "posted_date": "2026-03-13",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 21,
+        "position": 12.5,
         "top_queries": []
       },
       "ga4": {
@@ -1352,9 +1351,9 @@
       "posted_date": "2026-03-16",
       "gsc": {
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 10,
         "ctr": 0,
-        "position": 7.9,
+        "position": 8.3,
         "top_queries": []
       },
       "ga4": {
@@ -1445,20 +1444,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 4,
-        "avg_engagement_seconds": 5.8,
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 2.3,
         "traffic_sources": {
-          "Direct": 3,
-          "Referral": 1
+          "Direct": 3
         },
-        "contact_clicks": 2,
+        "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "low_engagement"
     },
     {
       "member_id": "45",
@@ -1656,9 +1652,9 @@
       "posted_date": "2026-03-16",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 3,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
@@ -1666,9 +1662,8 @@
         "pageviews": 11,
         "avg_engagement_seconds": 4.7,
         "traffic_sources": {
-          "Organic Social": 8,
-          "Direct": 2,
-          "Cross-network": 1
+          "Organic Social": 9,
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -1739,9 +1734,9 @@
       "posted_date": "2026-03-22",
       "gsc": {
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 11,
         "ctr": 0,
-        "position": 7.2,
+        "position": 7,
         "top_queries": []
       },
       "ga4": {
@@ -1935,9 +1930,9 @@
       "posted_date": "2026-03-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 6,
         "ctr": 0,
-        "position": 8.1,
+        "position": 8.3,
         "top_queries": []
       },
       "ga4": {
@@ -2218,18 +2213,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 3.3,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
         "traffic_sources": {
-          "Organic Social": 2,
           "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "57",
@@ -2513,9 +2507,9 @@
       "posted_date": "2026-04-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 8.3,
+        "position": 7.8,
         "top_queries": []
       },
       "ga4": {
@@ -2896,10 +2890,16 @@
       "posted_date": "2026-05-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 5,
         "ctr": 0,
-        "position": 9.8,
-        "top_queries": []
+        "position": 21.4,
+        "top_queries": [
+          {
+            "query": "debate clubs orangeville",
+            "clicks": 0,
+            "impressions": 1
+          }
+        ]
       },
       "ga4": {
         "sessions": 1,
@@ -2923,9 +2923,9 @@
       "posted_date": "2026-05-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 2,
         "ctr": 0,
-        "position": 0,
+        "position": 7,
         "top_queries": []
       },
       "ga4": {
@@ -2939,7 +2939,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "74",
@@ -3087,9 +3087,9 @@
       "posted_date": "2026-04-27",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 7,
         "ctr": 0,
-        "position": 6,
+        "position": 4.6,
         "top_queries": []
       },
       "ga4": {
@@ -3115,12 +3115,17 @@
       "posted_date": "2026-05-28",
       "gsc": {
         "clicks": 0,
-        "impressions": 41,
+        "impressions": 52,
         "ctr": 0,
-        "position": 5.8,
+        "position": 7.4,
         "top_queries": [
           {
             "query": "consistency in music lessons",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "query": "online violin classes",
             "clicks": 0,
             "impressions": 1
           },
@@ -3135,14 +3140,9 @@
             "impressions": 1
           },
           {
-            "query": "structured development",
+            "query": "online violin teachers",
             "clicks": 0,
-            "impressions": 6
-          },
-          {
-            "query": "violin lessons",
-            "clicks": 0,
-            "impressions": 24
+            "impressions": 1
           }
         ]
       },
@@ -3199,13 +3199,13 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 57,
-        "pageviews": 59,
-        "avg_engagement_seconds": 5.4,
+        "sessions": 28,
+        "pageviews": 29,
+        "avg_engagement_seconds": 7.3,
         "traffic_sources": {
-          "Organic Social": 49,
-          "Direct": 5,
-          "Referral": 3
+          "Organic Social": 22,
+          "Direct": 4,
+          "Referral": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3238,7 +3238,7 @@
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "member_id": "81",
@@ -3249,9 +3249,9 @@
       "posted_date": "2026-05-29",
       "gsc": {
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 7,
         "ctr": 0,
-        "position": 37.8,
+        "position": 37.4,
         "top_queries": [
           {
             "query": "montessori business consultants",
@@ -3286,14 +3286,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 6,
-        "pageviews": 6,
-        "avg_engagement_seconds": 4.3,
+        "sessions": 9,
+        "pageviews": 9,
+        "avg_engagement_seconds": 2.9,
         "traffic_sources": {
-          "Organic Social": 4,
-          "Unassigned": 2,
+          "Organic Social": 5,
+          "Cross-network": 2,
           "Direct": 1,
-          "Referral": 1
+          "Referral": 1,
+          "Unassigned": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3390,9 +3391,9 @@
       "posted_date": "2026-06-07",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 1,
+        "position": 3.3,
         "top_queries": []
       },
       "ga4": {
@@ -3553,9 +3554,9 @@
       "posted_date": "2026-06-26",
       "gsc": {
         "clicks": 2,
-        "impressions": 8,
-        "ctr": 0.25,
-        "position": 4.6,
+        "impressions": 7,
+        "ctr": 0.2857142857142857,
+        "position": 4.3,
         "top_queries": []
       },
       "ga4": {
@@ -3616,15 +3617,19 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 7.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 2,
+          "Organic Search": 1,
+          "Unassigned": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
+        "outbound_clicks_by_domain": {
+          "tutoringinphysics.com": 1
+        }
       },
       "triage_flag": "high_impressions_low_ctr"
     },
@@ -3637,9 +3642,9 @@
       "posted_date": "2026-06-28",
       "gsc": {
         "clicks": 1,
-        "impressions": 8,
-        "ctr": 0.125,
-        "position": 3.6,
+        "impressions": 7,
+        "ctr": 0.14285714285714285,
+        "position": 3,
         "top_queries": []
       },
       "ga4": {
@@ -3740,9 +3745,9 @@
       "posted_date": "2026-06-30",
       "gsc": {
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 3.6,
+        "position": 3.3,
         "top_queries": []
       },
       "ga4": {
@@ -3855,10 +3860,16 @@
       "posted_date": "2026-09-25",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 3,
         "ctr": 0,
-        "position": 0,
-        "top_queries": []
+        "position": 6.3,
+        "top_queries": [
+          {
+            "query": "iew login",
+            "clicks": 0,
+            "impressions": 3
+          }
+        ]
       },
       "ga4": {
         "sessions": 0,
@@ -3869,7 +3880,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "100",
@@ -3951,6 +3962,70 @@
         "outbound_clicks_by_domain": {}
       },
       "triage_flag": "new_no_data"
+    },
+    {
+      "member_id": "104",
+      "member_name": "Aisha Govani",
+      "url": "https://www.learnwitheveryavenue.com/coaching-mentoring/aisha-govani",
+      "title": "Aisha Govani",
+      "post_type": "profile",
+      "posted_date": "2026-08-29",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 4.6,
+        "top_queries": [
+          {
+            "query": "aisha govani",
+            "clicks": 0,
+            "impressions": 4
+          }
+        ]
+      },
+      "ga4": {
+        "sessions": 5,
+        "pageviews": 5,
+        "avg_engagement_seconds": 18.2,
+        "traffic_sources": {
+          "Referral": 3,
+          "Direct": 2
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "104",
+      "member_name": "Aisha Govani",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/homeschool-coaching-for-parents",
+      "title": "Homeschool Coaching for Parents",
+      "post_type": "listing",
+      "posted_date": "2026-09-02",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 10,
+        "pageviews": 10,
+        "avg_engagement_seconds": 14.8,
+        "traffic_sources": {
+          "Direct": 6,
+          "Referral": 4
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "(not set)": 3
+        }
+      },
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "106",
@@ -4074,12 +4149,12 @@
       "url": "https://www.learnwitheveryavenue.com/classes-and-resources/individual-geometry-support-for-teenagers-with-math-anxiety",
       "title": "Individual Geometry Support for Teenagers with Math Anxiety",
       "post_type": "listing",
-      "posted_date": "2026-09-24",
+      "posted_date": "2026-09-28",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 2,
         "ctr": 0,
-        "position": 0,
+        "position": 8,
         "top_queries": []
       },
       "ga4": {
@@ -4093,7 +4168,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "108",
@@ -4101,7 +4176,7 @@
       "url": "https://www.learnwitheveryavenue.com/classes-and-resources/live-group-geometry-tutoring-for-9th-10th-graders",
       "title": "Live Group Geometry Tutoring for 9th & 10th Graders",
       "post_type": "listing",
-      "posted_date": "2026-09-25",
+      "posted_date": "2026-09-28",
       "gsc": {
         "clicks": 0,
         "impressions": 0,
