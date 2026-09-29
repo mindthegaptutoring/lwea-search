@@ -15,7 +15,7 @@
       "high_visibility_min": 2,
       "low_ctr_max": 0,
       "meaningful_sessions_min": 2,
-      "low_engagement_max": 5.8,
+      "low_engagement_max": 6.0,
       "sample_size": 104
     }
   },
@@ -747,10 +747,13 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 3.0,
+        "traffic_sources": {
+          "Direct": 1,
+          "Organic Social": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -1581,15 +1584,18 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 37.0,
+        "traffic_sources": {
+          "Organic Social": 2,
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "46",
@@ -1606,15 +1612,18 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
-        "contact_clicks": 0,
+        "sessions": 5,
+        "pageviews": 4,
+        "avg_engagement_seconds": 32.2,
+        "traffic_sources": {
+          "Direct": 3,
+          "Email": 2
+        },
+        "contact_clicks": 1,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "46",
@@ -2267,10 +2276,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -2292,10 +2303,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -2817,15 +2830,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "74",
@@ -3147,10 +3162,12 @@
         ]
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -3261,10 +3278,13 @@
         ]
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 42.7,
+        "traffic_sources": {
+          "Direct": 2,
+          "Organic Search": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -3372,15 +3392,18 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
-        "contact_clicks": 0,
+        "sessions": 4,
+        "pageviews": 7,
+        "avg_engagement_seconds": 30.8,
+        "traffic_sources": {
+          "Direct": 3,
+          "Organic Search": 1
+        },
+        "contact_clicks": 2,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "92",
@@ -3676,10 +3699,13 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 6,
+        "pageviews": 6,
+        "avg_engagement_seconds": 1.2,
+        "traffic_sources": {
+          "Referral": 4,
+          "Direct": 2
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -3701,10 +3727,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 7.5,
+        "traffic_sources": {
+          "Direct": 2
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -3726,15 +3754,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 6.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "97",
