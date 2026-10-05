@@ -8,7 +8,7 @@
       "low_ctr_max": 0,
       "meaningful_sessions_min": 2,
       "low_engagement_max": 6.0,
-      "sample_size": 44
+      "sample_size": 47
     },
     "listing": {
       "low_visibility_max": 0,
@@ -16,7 +16,7 @@
       "low_ctr_max": 0,
       "meaningful_sessions_min": 2,
       "low_engagement_max": 3.5,
-      "sample_size": 101
+      "sample_size": 108
     }
   },
   "listings": [
@@ -50,6 +50,76 @@
         }
       },
       "triage_flag": "healthy"
+    },
+    {
+      "member_id": "21",
+      "member_name": "Kristen Thatcher",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/high-school-math-tutoring-for-struggling-students",
+      "title": "High School Math Tutoring for Struggling Students",
+      "post_type": "listing",
+      "posted_date": "2026-04-04",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 23.8,
+        "top_queries": [
+          {
+            "query": "best personalized curriculum providers for a sophomore needing math remediation, fewer nightly assignments, and mentorship?",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "query": "high school math tutoring",
+            "clicks": 0,
+            "impressions": 2
+          }
+        ]
+      },
+      "ga4": {
+        "sessions": 7,
+        "pageviews": 7,
+        "avg_engagement_seconds": 3.4,
+        "traffic_sources": {
+          "Direct": 4,
+          "Referral": 2,
+          "Organic Social": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "21",
+      "member_name": "Kristen Thatcher",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/weekly-accountability-check-ins-for-self-paced-students",
+      "title": "Weekly Accountability Check-Ins for Self-Paced Students",
+      "post_type": "listing",
+      "posted_date": "2026-09-06",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 5.7,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 8,
+        "pageviews": 7,
+        "avg_engagement_seconds": 162.6,
+        "traffic_sources": {
+          "Referral": 4,
+          "Organic Social": 2,
+          "Direct": 1,
+          "Organic Search": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "member_id": "24",
@@ -801,12 +871,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 14,
-        "pageviews": 15,
-        "avg_engagement_seconds": 9.1,
+        "sessions": 15,
+        "pageviews": 16,
+        "avg_engagement_seconds": 8.5,
         "traffic_sources": {
           "Direct": 12,
-          "Organic Social": 2
+          "Organic Social": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -1000,9 +1070,8 @@
         "pageviews": 28,
         "avg_engagement_seconds": 9.0,
         "traffic_sources": {
-          "Organic Social": 18,
+          "Organic Social": 19,
           "Direct": 5,
-          "Cross-network": 1,
           "Email": 1,
           "Organic Search": 1
         },
@@ -1013,6 +1082,123 @@
         }
       },
       "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "39",
+      "member_name": "Expedition Spanish",
+      "url": "https://www.learnwitheveryavenue.com/online-group-classes/expedition-spanish",
+      "title": "Expedition Spanish",
+      "post_type": "profile",
+      "posted_date": "2026-03-13",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 8.8,
+        "top_queries": [
+          {
+            "query": "expedition spanish",
+            "clicks": 0,
+            "impressions": 2
+          }
+        ]
+      },
+      "ga4": {
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 3.0,
+        "traffic_sources": {
+          "Direct": 2
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "39",
+      "member_name": "Expedition Spanish",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/expedition-spanish-live-classes-pk-12",
+      "title": "Expedition Spanish Live Classes | PK-12",
+      "post_type": "listing",
+      "posted_date": "2026-03-20",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 8.1,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 4,
+        "pageviews": 4,
+        "avg_engagement_seconds": 36.8,
+        "traffic_sources": {
+          "Direct": 2,
+          "Organic Social": 1,
+          "Referral": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "40",
+      "member_name": "Kathie Harsch",
+      "url": "https://www.learnwitheveryavenue.com/1-on-1-teaching/teach2write-llc",
+      "title": "Kathie Harsch",
+      "post_type": "profile",
+      "posted_date": "2026-03-13",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 4.6,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 22.3,
+        "traffic_sources": {
+          "Direct": 3
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "member_id": "40",
+      "member_name": "Kathie Harsch",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/from-writing-struggle-to-writing-joy-private-tutoring-for-middle-school-ages-10-14",
+      "title": "From Writing Struggle to Writing Joy: Private Tutoring for Middle School Ages 10-14",
+      "post_type": "listing",
+      "posted_date": "2026-04-07",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 62.5,
+        "traffic_sources": {
+          "Direct": 1,
+          "Organic Social": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "42",
@@ -1363,8 +1549,7 @@
         "avg_engagement_seconds": 12.7,
         "traffic_sources": {
           "Direct": 2,
-          "Cross-network": 1,
-          "Unassigned": 1
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2023,11 +2208,10 @@
       },
       "ga4": {
         "sessions": 13,
-        "pageviews": 13,
+        "pageviews": 14,
         "avg_engagement_seconds": 7.1,
         "traffic_sources": {
-          "Organic Social": 10,
-          "Cross-network": 1,
+          "Organic Social": 11,
           "Direct": 1,
           "Organic Search": 1
         },
@@ -2875,9 +3059,8 @@
         "pageviews": 9,
         "avg_engagement_seconds": 16.4,
         "traffic_sources": {
-          "Organic Social": 6,
-          "Direct": 2,
-          "Cross-network": 1
+          "Organic Social": 7,
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2962,12 +3145,11 @@
       "ga4": {
         "sessions": 3,
         "pageviews": 7,
-        "avg_engagement_seconds": 9.0,
+        "avg_engagement_seconds": 32.7,
         "traffic_sources": {
           "Direct": 1,
           "Organic Search": 1,
-          "Referral": 1,
-          "Unassigned": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 1,
@@ -3045,11 +3227,10 @@
       "ga4": {
         "sessions": 2,
         "pageviews": 4,
-        "avg_engagement_seconds": 155.0,
+        "avg_engagement_seconds": 124.0,
         "traffic_sources": {
-          "Cross-network": 1,
           "Direct": 1,
-          "Unassigned": 1
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3229,6 +3410,123 @@
         "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
+    },
+    {
+      "member_id": "92",
+      "member_name": "Erika Williams",
+      "url": "https://www.learnwitheveryavenue.com/1-on-1-teaching/erika-williams",
+      "title": "Erika Williams",
+      "post_type": "profile",
+      "posted_date": "2026-06-07",
+      "gsc": {
+        "clicks": 1,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 3,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 4,
+        "pageviews": 4,
+        "avg_engagement_seconds": 15.0,
+        "traffic_sources": {
+          "Organic Search": 2,
+          "Direct": 1,
+          "Referral": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "healthy"
+    },
+    {
+      "member_id": "92",
+      "member_name": "Erika Williams",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/elite-worldschooling-private-teacher",
+      "title": "Elite worldschooling private teacher",
+      "post_type": "listing",
+      "posted_date": "2026-07-29",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 4,
+        "pageviews": 3,
+        "avg_engagement_seconds": 2.2,
+        "traffic_sources": {
+          "Direct": 2,
+          "Referral": 2
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "low_visibility"
+    },
+    {
+      "member_id": "92",
+      "member_name": "Erika Williams",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/elementary-school-science-literacy",
+      "title": "Elementary School Science Literacy",
+      "post_type": "listing",
+      "posted_date": "2026-07-30",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 6,
+        "pageviews": 7,
+        "avg_engagement_seconds": 30.3,
+        "traffic_sources": {
+          "Direct": 3,
+          "Email": 1,
+          "Organic Search": 1,
+          "Referral": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "cal.eu": 1
+        }
+      },
+      "triage_flag": "low_visibility"
+    },
+    {
+      "member_id": "92",
+      "member_name": "Erika Williams",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/worldschooling-lesson-plans",
+      "title": "Worldschooling Lesson Plans",
+      "post_type": "listing",
+      "posted_date": "2026-08-10",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 3,
+        "pageviews": 4,
+        "avg_engagement_seconds": 44.7,
+        "traffic_sources": {
+          "Direct": 2,
+          "Referral": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "low_visibility"
     },
     {
       "member_id": "94",
@@ -4022,7 +4320,7 @@
         "pageviews": 1,
         "avg_engagement_seconds": 36.0,
         "traffic_sources": {
-          "Unassigned": 1
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4134,8 +4432,7 @@
         "avg_engagement_seconds": 3.3,
         "traffic_sources": {
           "Direct": 2,
-          "Referral": 1,
-          "Unassigned": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
