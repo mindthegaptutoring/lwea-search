@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-05",
   "lookback_days": 28,
   "history_max_weeks": 52,
   "history": {
@@ -291,586 +291,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/high-school-math-tutoring-for-struggling-students": [
+      },
       {
-        "date": "2026-04-20",
+        "date": "2026-10-05",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0.0,
         "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 7.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 3,
-        "avg_engagement_seconds": 9.3,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 2.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 7.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 5.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 92.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 1.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 3,
-        "avg_engagement_seconds": 25.7,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 14.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 5,
-        "sessions": 1,
-        "avg_engagement_seconds": 2.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/weekly-accountability-check-ins-for-self-paced-students": [
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 5.7,
-        "sessions": 1,
-        "avg_engagement_seconds": 21.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 8.7,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/tutoring/kidslearnfirstabc": [
@@ -1156,6 +588,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -1487,6 +931,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/kate-mitchell": [
@@ -1777,6 +1233,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/free-series-nature-s-secrets-nature-journaling-and-writing-for-8s-14s": [
@@ -2079,6 +1547,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/free-english-lesson-series-self-paced-games-and-gaming": [
@@ -2364,6 +1844,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -2683,6 +2175,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/writing-through-history": [
@@ -2973,6 +2477,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/help-i-hate-writing": [
@@ -3287,6 +2803,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/fantasy-worlds-free-english-lesson-series-self-paced": [
@@ -3577,6 +3105,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/wordplay-writing-co": [
@@ -3862,6 +3402,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -4157,6 +3709,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/worldlanguage-explorers": [
@@ -4447,6 +4011,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/german-for-friends": [
@@ -4749,6 +4325,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/kt-tt": [
@@ -5034,6 +4622,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -5329,6 +4929,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/become-a-reading-detective-learn-the-skills-for-comprehension-success-3rd-4th-grade": [
@@ -5619,6 +5231,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/become-a-reading-detective-learn-the-skills-for-comprehension-success-2nd-3rd-grade": [
@@ -5904,6 +5528,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -6199,6 +5835,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/learn-the-skills-for-reading-success-6th-8th-grades": [
@@ -6484,6 +6132,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 6.7,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -6779,6 +6439,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/the-cooking-club-learn-to-make-easy-meals-from-start-to-finish": [
@@ -7081,6 +6753,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/tutoring-by-alejandro": [
@@ -7371,6 +7055,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/gcse-maths-%E2%80%93-1-to-1-online-tutoring-foundation-higher": [
@@ -7657,6 +7353,18 @@
         "ctr": 0,
         "position": 0,
         "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -7963,6 +7671,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/erin-sappington": [
@@ -8248,6 +7968,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -8555,6 +8287,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/andrea-dalland": [
@@ -8840,6 +8584,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -9147,6 +8903,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/1-1-self-paced-spelling-support-with-structured-word-inquiry": [
@@ -9449,6 +9217,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/using-structured-word-inquiry-to-support-learners-with-dyslexia": [
@@ -9734,6 +9514,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -10029,6 +9821,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/introduction-to-structured-word-inquiry": [
@@ -10319,6 +10123,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/my-speech-and-debate-coach": [
@@ -10604,6 +10420,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -10911,1214 +10739,18 @@
         "contact_clicks": 1,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/online-group-classes/expedition-spanish": [
+      },
       {
-        "date": "2026-04-20",
+        "date": "2026-10-05",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0.0,
         "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 7.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 8.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 11,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_engagement"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/expedition-spanish-live-classes-pk-12": [
-      {
-        "date": "2026-04-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 3,
-        "avg_engagement_seconds": 43.7,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 4,
-        "avg_engagement_seconds": 18.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 12,
-        "avg_engagement_seconds": 29.6,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 4,
-        "avg_engagement_seconds": 13.8,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 4.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 60.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 16.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 4.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 62.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 10.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 8.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 11.7,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 3,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 7.7,
-        "sessions": 2,
-        "avg_engagement_seconds": 8.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 10.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 7.5,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 2,
-        "avg_engagement_seconds": 70.5,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/1-on-1-teaching/teach2write-llc": [
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 6.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 3.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 3.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 61.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 4,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "healthy"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/from-writing-struggle-to-writing-joy-private-tutoring-for-middle-school-ages-10-14": [
-      {
-        "date": "2026-03-30",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 62.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 138.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 63.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 5.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 12.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 5.0,
-        "sessions": 9,
-        "avg_engagement_seconds": 8.4,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 15.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 1,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 10.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 15.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 15.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 38.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 7.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 253.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/scholar-vanguard": [
@@ -12404,6 +11036,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -12723,6 +11367,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/amy-polk": [
@@ -13008,6 +11664,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -13315,6 +11983,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/reading-on-the-ridge": [
@@ -13600,6 +12280,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -13919,6 +12611,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/self-paced-classes/be-education": [
@@ -14204,6 +12908,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -14523,6 +13239,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/korean-1-part-1-semester-class": [
@@ -14820,6 +13548,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -15127,6 +13867,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/japanese-tutoring": [
@@ -15412,6 +14164,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -15707,6 +14471,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/homeschool-consultation-and-transcript-help": [
@@ -15992,6 +14768,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -16287,6 +15075,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/6th%E2%80%938th-grade-math-tutoring-for-students-who-feel-stuck-fractions-pre-algebra-problem-solving": [
@@ -16577,6 +15377,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/2nd%E2%80%935th-grade-math-tutoring-to-build-strong-foundations": [
@@ -16862,6 +15674,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -17181,6 +16005,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/deanna-smith": [
@@ -17466,6 +16302,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 7.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -17761,6 +16609,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/private-online-oboe-lessons": [
@@ -18046,6 +16906,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 8,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -18341,6 +17213,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/private-online-trumpet-lessons": [
@@ -18626,6 +17510,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -18921,6 +17817,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/private-online-ukulele-lessons": [
@@ -19206,6 +18114,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -19508,6 +18428,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 42,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -19827,6 +18759,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/private-percussion-lessons": [
@@ -20141,6 +19085,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/self-paced-classes/lora-danley": [
@@ -20426,6 +19382,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -20721,6 +19689,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/introduction-to-organic-chemistry": [
@@ -21006,6 +19986,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -21301,6 +20293,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/sandra-girouard": [
@@ -21586,6 +20590,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -21881,6 +20897,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/private-piano-and-keyboard-lessons-online-beginner-to-advanced-all-ages-supersonics": [
@@ -22166,6 +21194,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -22461,6 +21501,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/coaching-mentoring/teen-mind-body-coach": [
@@ -22746,6 +21798,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -23041,6 +22105,18 @@
         "contact_clicks": 1,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/darby-kennedy-teaches": [
@@ -23331,6 +22407,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/civics-and-democracy": [
@@ -23621,6 +22709,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/modern-geopolitics-1-read-discuss-tim-marshall%E2%80%99s-%E2%80%9Cprisoners-of-geography%E2%80%9D": [
@@ -23906,6 +23006,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -24201,6 +23313,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/thematic-u-s-history-exploring-history-by-asking-big-questions-part-1-of-2": [
@@ -24486,6 +23610,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -24781,6 +23917,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/thematic-world-history-part-1-big-questions-bold-thinking-global-understanding": [
@@ -25066,6 +24214,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 4,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -25361,6 +24521,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/world-civics-the-systems-that-shape-our-modern-world": [
@@ -25651,6 +24823,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/learn-with-sydney-early-literacy-math-services": [
@@ -25936,6 +25120,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -26231,6 +25427,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/coaching-mentoring/open-wonder-learning": [
@@ -26516,6 +25724,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -26811,6 +26031,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/self-paced-classes/sarita-rodriguez": [
@@ -27098,6 +26330,18 @@
         "position": 0,
         "sessions": 1,
         "avg_engagement_seconds": 60.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
@@ -27391,6 +26635,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/health-wellness-curriculum-planning-session": [
@@ -27676,6 +26932,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -27971,6 +27239,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/build-a-balanced-plate-for-ages-7-11": [
@@ -28261,6 +27541,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/julieta-duvall": [
@@ -28546,6 +27838,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -28850,6 +28154,18 @@
         "position": 0,
         "sessions": 1,
         "avg_engagement_seconds": 9.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
@@ -29167,6 +28483,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/homeschooling-feels-chaotic-you-re-doubting-it-all": [
@@ -29452,6 +28780,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -29747,6 +29087,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/maritime-philosophy-friends": [
@@ -30037,6 +29389,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/philosophy": [
@@ -30324,6 +29688,18 @@
         "position": 0,
         "sessions": 1,
         "avg_engagement_seconds": 1.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
@@ -30617,6 +29993,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/mind-games": [
@@ -30907,6 +30295,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/logic-class": [
@@ -31192,6 +30592,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -31487,6 +30899,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/worldschooling-teens-writing-workshop-turning-experiential-learning-into-powerful-stories": [
@@ -31777,6 +31201,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/radical-roots-math-tutoring": [
@@ -32062,6 +31498,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -32357,6 +31805,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/adriana-cristea": [
@@ -32642,6 +32102,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 6.3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -32937,6 +32409,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/homeschool-transcript-creation-academic-documentation-support": [
@@ -33222,6 +32706,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -33517,6 +33013,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/coaching-mentoring/heron-berry-hill-montessori-homeschool-consulting": [
@@ -33802,6 +33310,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -34097,6 +33617,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/montessori-at-home": [
@@ -34387,6 +33919,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/resources/listed-by-kayleigh": [
@@ -34672,6 +34216,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -34967,1166 +34523,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/1-on-1-teaching/erika-williams": [
+      },
       {
-        "date": "2026-04-20",
+        "date": "2026-10-05",
         "impressions": 0,
         "clicks": 0,
         "ctr": 0.0,
         "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 12.6,
-        "sessions": 1,
-        "avg_engagement_seconds": 25.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 28.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 1.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 3,
-        "avg_engagement_seconds": 18.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/elite-worldschooling-private-teacher": [
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 2.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 1,
-        "clicks": 1,
-        "ctr": 1.0,
-        "position": 4.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 29.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 2,
-        "avg_engagement_seconds": 2.5,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 3.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/elementary-school-science-literacy": [
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 10.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 1,
-        "avg_engagement_seconds": 1.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 4,
-        "avg_engagement_seconds": 42.8,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
-      }
-    ],
-    "https://www.learnwitheveryavenue.com/classes-and-resources/worldschooling-lesson-plans": [
-      {
-        "date": "2026-04-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-04-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-04",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-11",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-18",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-05-25",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-01",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-08",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-15",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-22",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-06-29",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-06",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-13",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-20",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-07-27",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-03",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-10",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-17",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-24",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-08-31",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-07",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-14",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-21",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 0.0,
-        "sessions": 0,
-        "avg_engagement_seconds": 0.0,
-        "contact_clicks": null,
-        "connect_pageviews": null,
-        "triage_flag": null
-      },
-      {
-        "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
-        "sessions": 1,
-        "avg_engagement_seconds": 77.0,
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/1-on-1-teaching/chris-pietris": [
@@ -36412,6 +34820,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -36707,6 +35127,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/personalized-expert-engaging-high-school-physics-instruction": [
@@ -36997,6 +35429,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/coaching-mentoring/the-school-of-conscious-rebels": [
@@ -37287,6 +35731,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/the-transformational-teen-experience-holistic-life-skills-for-bright-sensitive-teens": [
@@ -37298,6 +35754,18 @@
         "position": 0,
         "sessions": 10,
         "avg_engagement_seconds": 26.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
@@ -37315,6 +35783,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A08-days-of-reading-wellbeing-brain-science-in-the-aussie-bush-%F0%9F%8C%BF-age-6-12-%F0%9F%93%96": [
@@ -37324,6 +35804,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -37619,6 +36111,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/self-paced-classes/karen-cross": [
@@ -37904,6 +36408,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 6,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -38199,6 +36715,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/iew-tutoring": [
@@ -38489,6 +37017,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/iew-structure-and-style-for-students": [
@@ -38774,6 +37314,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 18.7,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -39069,6 +37621,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_engagement"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_engagement"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/alphabet-adventures-realistic-wildlife-drawing-natural-science-handwriting-life-skills": [
@@ -39354,6 +37918,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -39649,6 +38225,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
       }
     ],
     "https://www.learnwitheveryavenue.com/coaching-mentoring/aisha-govani": [
@@ -39934,6 +38522,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -40229,6 +38829,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/online-group-classes/tina-powick": [
@@ -40514,6 +39126,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -40809,6 +39433,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/tutoring/suzanne-munn": [
@@ -41094,6 +39730,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -41389,6 +40037,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "healthy"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "healthy"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/individual-geometry-support-for-teenagers-with-math-anxiety": [
@@ -41679,6 +40339,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "high_impressions_low_ctr"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/live-geometry-support-for-homeschoolers": [
@@ -41693,6 +40365,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/geometry-formula-guide-everything-you-need-in-one-printable-pdf": [
@@ -41702,6 +40386,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -41721,6 +40417,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/teach-your-teen-to-build-a-business-with-ai-in-about-an-hour": [
@@ -41735,6 +40443,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "low_visibility"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/15-ai-skills-to-upgrade-your-business": [
@@ -41744,6 +40464,18 @@
         "clicks": 0,
         "ctr": 0,
         "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -41763,6 +40495,18 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ],
     "https://www.learnwitheveryavenue.com/classes-and-resources/individualized-geometry-instruction-for-teenagers-with-math-anxiety": [
@@ -41777,6 +40521,60 @@
         "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": "new_no_data"
+      },
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      }
+    ],
+    "https://www.learnwitheveryavenue.com/online-group-classes/ebony-miranda": [
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      }
+    ],
+    "https://www.learnwitheveryavenue.com/classes-and-resources/making-better-choices-emotional-regulation": [
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
+      }
+    ],
+    "https://www.learnwitheveryavenue.com/classes-and-resources/friendship-club-for-kids-giggle-gang-hangout": [
+      {
+        "date": "2026-10-05",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": "low_visibility"
       }
     ]
   }
