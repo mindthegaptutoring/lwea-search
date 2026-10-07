@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "lookback_days": 28,
   "history_max_weeks": 52,
   "history": {
@@ -572,10 +572,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 0,
         "ctr": 0,
-        "position": 27.4,
+        "position": 30.2,
         "sessions": 4,
         "avg_engagement_seconds": 4.5,
         "contact_clicks": 0,
@@ -11846,15 +11846,15 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 0,
+        "impressions": 1,
         "clicks": 0,
         "ctr": 0,
-        "position": 0,
+        "position": 6,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_visibility"
+        "triage_flag": "healthy"
       }
     ],
     "profile_42": [
@@ -12740,7 +12740,7 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 52,
+        "impressions": 55,
         "clicks": 0,
         "ctr": 0,
         "position": 7.7,
@@ -22820,10 +22820,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 8,
+        "impressions": 10,
         "clicks": 0,
         "ctr": 0,
-        "position": 30.5,
+        "position": 30.1,
         "sessions": 2,
         "avg_engagement_seconds": 4.0,
         "contact_clicks": 0,
@@ -23452,10 +23452,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 7,
+        "impressions": 8,
         "clicks": 0,
         "ctr": 0,
-        "position": 6.1,
+        "position": 6.4,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -23750,7 +23750,7 @@
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
+        "triage_flag": "healthy"
       }
     ],
     "listing_61": [
@@ -29024,10 +29024,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 6,
+        "impressions": 8,
         "clicks": 0,
         "ctr": 0,
-        "position": 63.7,
+        "position": 62.8,
         "sessions": 3,
         "avg_engagement_seconds": 10.3,
         "contact_clicks": 0,
@@ -31054,15 +31054,15 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 12,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 6.7,
+        "impressions": 14,
+        "clicks": 1,
+        "ctr": 0.07142857142857142,
+        "position": 5.9,
         "sessions": 1,
         "avg_engagement_seconds": 71.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
+        "triage_flag": "healthy"
       }
     ],
     "listing_87": [
@@ -31080,10 +31080,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 29,
+        "impressions": 31,
         "clicks": 0,
         "ctr": 0,
-        "position": 6.8,
+        "position": 6.5,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -31370,15 +31370,15 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
+        "impressions": 2,
+        "clicks": 1,
+        "ctr": 0.5,
+        "position": 11.5,
         "sessions": 1,
         "avg_engagement_seconds": 242.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_visibility"
+        "triage_flag": "healthy"
       }
     ],
     "listing_144": [
@@ -36984,10 +36984,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0,
-        "position": 5,
+        "position": 4,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -37854,10 +37854,10 @@
       },
       {
         "date": "2026-09-28",
-        "impressions": 0,
+        "impressions": 1,
         "clicks": 0,
         "ctr": 0,
-        "position": 0,
+        "position": 9,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
