@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "lookback_days": 28,
   "history_max_weeks": 52,
   "history": {
@@ -596,10 +596,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 22,
+        "impressions": 24,
         "clicks": 0,
         "ctr": 0,
-        "position": 22.3,
+        "position": 20.5,
         "sessions": 3,
         "avg_engagement_seconds": 0.7,
         "contact_clicks": 0,
@@ -6744,10 +6744,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 20,
+        "impressions": 21,
         "clicks": 0,
         "ctr": 0,
-        "position": 13.4,
+        "position": 13.2,
         "sessions": 1,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -7662,15 +7662,15 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 0,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0,
-        "position": 0,
+        "position": 1,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_visibility"
+        "triage_flag": "low_engagement"
       }
     ],
     "listing_11": [
@@ -8022,7 +8022,7 @@
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_engagement"
+        "triage_flag": "healthy"
       }
     ],
     "profile_36": [
@@ -9254,7 +9254,7 @@
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "healthy"
+        "triage_flag": "low_visibility"
       }
     ],
     "listing_15": [
@@ -9862,15 +9862,15 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 0,
+        "impressions": 1,
         "clicks": 0,
         "ctr": 0,
-        "position": 0,
+        "position": 2,
         "sessions": 4,
         "avg_engagement_seconds": 27.5,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_visibility"
+        "triage_flag": "healthy"
       }
     ],
     "listing_65": [
@@ -15474,7 +15474,7 @@
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_engagement"
+        "triage_flag": "healthy"
       }
     ],
     "listing_148": [
@@ -23780,10 +23780,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 7,
+        "impressions": 11,
         "clicks": 0,
         "ctr": 0,
-        "position": 32.1,
+        "position": 26.9,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -24158,15 +24158,15 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 0,
+        "impressions": 1,
         "clicks": 0,
         "ctr": 0,
-        "position": 0,
+        "position": 2,
         "sessions": 1,
         "avg_engagement_seconds": 1.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "low_engagement"
+        "triage_flag": "high_impressions_low_ctr"
       }
     ],
     "listing_59": [
@@ -24460,10 +24460,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 7,
+        "impressions": 10,
         "clicks": 1,
-        "ctr": 0.14285714285714285,
-        "position": 21.1,
+        "ctr": 0.1,
+        "position": 16.7,
         "sessions": 1,
         "avg_engagement_seconds": 18.0,
         "contact_clicks": 0,
@@ -30884,7 +30884,7 @@
         "avg_engagement_seconds": 24.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "healthy"
+        "triage_flag": "low_visibility"
       }
     ],
     "profile_76": [
@@ -32386,10 +32386,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 27,
+        "impressions": 28,
         "clicks": 2,
-        "ctr": 0.07407407407407407,
-        "position": 9.4,
+        "ctr": 0.07142857142857142,
+        "position": 9.3,
         "sessions": 2,
         "avg_engagement_seconds": 23.5,
         "contact_clicks": 0,
@@ -37106,15 +37106,15 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 0,
-        "clicks": 0,
-        "ctr": 0,
-        "position": 0,
+        "impressions": 1,
+        "clicks": 1,
+        "ctr": 1,
+        "position": 3,
         "sessions": 1,
         "avg_engagement_seconds": 18.0,
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "triage_flag": "high_impressions_low_ctr"
+        "triage_flag": "healthy"
       }
     ],
     "profile_99": [
@@ -37408,10 +37408,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
         "ctr": 0,
-        "position": 23.5,
+        "position": 22,
         "sessions": 2,
         "avg_engagement_seconds": 6.5,
         "contact_clicks": 0,
@@ -38314,10 +38314,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 10,
+        "impressions": 12,
         "clicks": 0,
         "ctr": 0,
-        "position": 20.4,
+        "position": 18.1,
         "sessions": 2,
         "avg_engagement_seconds": 0.5,
         "contact_clicks": 0,
@@ -41636,10 +41636,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 10,
+        "impressions": 12,
         "clicks": 0,
         "ctr": 0,
-        "position": 25,
+        "position": 24.6,
         "sessions": 0,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": 0,
@@ -42136,10 +42136,10 @@
       },
       {
         "date": "2026-10-05",
-        "impressions": 2,
+        "impressions": 3,
         "clicks": 0,
         "ctr": 0,
-        "position": 7,
+        "position": 5.3,
         "sessions": 1,
         "avg_engagement_seconds": 10.0,
         "contact_clicks": 0,
