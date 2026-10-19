@@ -14,9 +14,9 @@
       "low_visibility_max": 0,
       "high_visibility_min": 4,
       "low_ctr_max": 0,
-      "meaningful_sessions_min": 2,
+      "meaningful_sessions_min": 3,
       "low_engagement_max": 3.3,
-      "sample_size": 119
+      "sample_size": 118
     }
   },
   "listings": [
@@ -850,7 +850,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_36",
@@ -1763,7 +1763,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_47",
@@ -4991,32 +4991,6 @@
       "member_name": "Ruxandra Cord",
       "url": "https://www.learnwitheveryavenue.com/classes-and-resources/the-young-entrepreneurs-programme",
       "title": "The Young Entrepreneurs Programme",
-      "post_type": "listing",
-      "posted_date": "2026-10-07",
-      "gsc": {
-        "clicks": 0,
-        "impressions": 0,
-        "ctr": 0,
-        "position": 0,
-        "top_queries": []
-      },
-      "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "new_no_data"
-    },
-    {
-      "id": "listing_183",
-      "member_id": "114",
-      "member_name": "Ruxandra Cord",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/young-entrepreneurs-programme",
-      "title": "Young Entrepreneurs Programme",
       "post_type": "listing",
       "posted_date": "2026-10-07",
       "gsc": {
