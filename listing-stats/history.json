@@ -5,6 +5,42 @@
   "history": {
     "profile_21": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -318,6 +354,42 @@
       }
     ],
     "listing_1": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -946,6 +1018,42 @@
       }
     ],
     "profile_24": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -1611,6 +1719,42 @@
     ],
     "profile_25": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -1925,6 +2069,18 @@
     ],
     "listing_13": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -1933,6 +2089,18 @@
         "sessions": 1,
         "avg_engagement_seconds": 14.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -2251,6 +2419,30 @@
     ],
     "listing_34": [
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -2564,6 +2756,18 @@
       }
     ],
     "listing_37": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-06",
         "impressions": 0,
@@ -2903,6 +3107,18 @@
     ],
     "listing_38": [
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -3216,6 +3432,18 @@
       }
     ],
     "listing_39": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-06",
         "impressions": 0,
@@ -3869,6 +4097,42 @@
     ],
     "profile_29": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -4497,6 +4761,42 @@
     ],
     "profile_31": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -4810,6 +5110,18 @@
       }
     ],
     "listing_48": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-13",
         "impressions": 0,
@@ -5137,6 +5449,42 @@
     ],
     "profile_32": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -5450,6 +5798,42 @@
       }
     ],
     "profile_33": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -7021,6 +7405,42 @@
     ],
     "profile_34": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -7334,6 +7754,18 @@
       }
     ],
     "listing_50": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-13",
         "impressions": 0,
@@ -7661,6 +8093,42 @@
     ],
     "profile_35": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -7975,6 +8443,306 @@
     ],
     "listing_11": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-04",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-11",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 8.5,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 47.3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 11,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 10,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 12.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 9.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 2,
         "clicks": 0,
@@ -8024,6 +8792,30 @@
       }
     ],
     "listing_12": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-13",
         "impressions": 0,
@@ -8351,6 +9143,42 @@
     ],
     "profile_36": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -8664,6 +9492,18 @@
       }
     ],
     "listing_49": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-13",
         "impressions": 0,
@@ -8991,6 +9831,42 @@
     ],
     "profile_37": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -9305,6 +10181,18 @@
     ],
     "listing_14": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -9313,6 +10201,18 @@
         "sessions": 1,
         "avg_engagement_seconds": 105.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -9631,6 +10531,18 @@
     ],
     "listing_15": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -9639,6 +10551,18 @@
         "sessions": 3,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -10899,6 +11823,42 @@
     ],
     "profile_38": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -11225,6 +12185,30 @@
         "triage_flag": null
       },
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -11538,6 +12522,42 @@
       }
     ],
     "profile_39": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -11853,6 +12873,18 @@
     ],
     "listing_5": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -11861,6 +12893,18 @@
         "sessions": 3,
         "avg_engagement_seconds": 43.7,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -12178,6 +13222,42 @@
       }
     ],
     "profile_40": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -12843,6 +13923,42 @@
     ],
     "profile_42": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -13181,6 +14297,18 @@
         "triage_flag": null
       },
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -13494,6 +14622,42 @@
       }
     ],
     "profile_43": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -13821,6 +14985,30 @@
         "triage_flag": null
       },
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -14134,6 +15322,42 @@
       }
     ],
     "profile_44": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -14473,6 +15697,18 @@
         "triage_flag": null
       },
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -14787,6 +16023,42 @@
     ],
     "profile_45": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -15100,6 +16372,18 @@
       }
     ],
     "listing_43": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-06",
         "impressions": 0,
@@ -15439,6 +16723,18 @@
     ],
     "listing_44": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -15447,6 +16743,18 @@
         "sessions": 1,
         "avg_engagement_seconds": 37.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -15765,6 +17073,18 @@
     ],
     "listing_45": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -15773,6 +17093,18 @@
         "sessions": 5,
         "avg_engagement_seconds": 2.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -17033,6 +18365,42 @@
     ],
     "profile_46": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -17347,6 +18715,306 @@
     ],
     "listing_28": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 2,
+        "avg_engagement_seconds": 3.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 1,
+        "avg_engagement_seconds": 95.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-04",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-11",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 13,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 1,
         "clicks": 0,
@@ -17396,6 +19064,306 @@
       }
     ],
     "listing_29": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 11.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 5.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-04",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 12.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-11",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 20.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 6.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 33.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 11.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 3,
+        "avg_engagement_seconds": 51.7,
+        "contact_clicks": 1,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-09-21",
         "impressions": 1,
@@ -17467,6 +19435,18 @@
         "sessions": 1,
         "avg_engagement_seconds": 22.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -17785,6 +19765,42 @@
     ],
     "profile_47": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -18098,6 +20114,42 @@
       }
     ],
     "listing_17": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -18413,6 +20465,42 @@
     ],
     "listing_18": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -18726,6 +20814,42 @@
       }
     ],
     "listing_19": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -19041,6 +21165,42 @@
     ],
     "listing_20": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -19354,6 +21514,42 @@
       }
     ],
     "listing_21": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -19669,6 +21865,42 @@
     ],
     "listing_22": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -19983,6 +22215,18 @@
     ],
     "listing_23": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -19991,6 +22235,18 @@
         "sessions": 3,
         "avg_engagement_seconds": 0.7,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -20333,6 +22589,18 @@
         "triage_flag": null
       },
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -20655,6 +22923,18 @@
         "sessions": 1,
         "avg_engagement_seconds": 0.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -20984,6 +23264,42 @@
       }
     ],
     "profile_51": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -21927,6 +24243,42 @@
     ],
     "profile_53": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -22240,6 +24592,42 @@
       }
     ],
     "profile_55": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -23497,6 +25885,42 @@
     ],
     "profile_56": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -23810,6 +26234,18 @@
       }
     ],
     "listing_55": [
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -24125,6 +26561,42 @@
     ],
     "profile_57": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -24438,6 +26910,30 @@
       }
     ],
     "listing_51": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -24753,6 +27249,294 @@
     ],
     "listing_52": [
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-04",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-11",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 4.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 8.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 4.5,
+        "sessions": 1,
+        "avg_engagement_seconds": 25.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 12,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 3,
+        "clicks": 1,
+        "ctr": 0.3333333333333333,
+        "position": 2.7,
+        "sessions": 2,
+        "avg_engagement_seconds": 35.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 3,
+        "clicks": 2,
+        "ctr": 0.6666666666666666,
+        "position": 5.7,
+        "sessions": 2,
+        "avg_engagement_seconds": 5.5,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 4.3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 8,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 2,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 0,
         "clicks": 0,
@@ -24803,6 +27587,294 @@
     ],
     "listing_53": [
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-04",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 159.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-11",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 1.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 4,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 1,
         "clicks": 0,
@@ -24852,6 +27924,30 @@
       }
     ],
     "listing_54": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -25167,6 +28263,18 @@
     ],
     "listing_59": [
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -25481,6 +28589,18 @@
     ],
     "listing_60": [
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -25794,6 +28914,18 @@
       }
     ],
     "listing_61": [
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -26423,6 +29555,42 @@
     ],
     "profile_60": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -26736,6 +29904,18 @@
       }
     ],
     "listing_33": [
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -27051,6 +30231,42 @@
     ],
     "profile_63": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -27365,6 +30581,18 @@
     ],
     "listing_57": [
       {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -27678,6 +30906,42 @@
       }
     ],
     "profile_66": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -29249,6 +32513,42 @@
     ],
     "profile_69": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -29563,6 +32863,18 @@
     ],
     "listing_46": [
       {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-06",
         "impressions": 0,
         "clicks": 0,
@@ -29571,6 +32883,18 @@
         "sessions": 4,
         "avg_engagement_seconds": 46.0,
         "contact_clicks": null,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
         "connect_pageviews": null,
         "triage_flag": null
       },
@@ -29888,6 +33212,18 @@
       }
     ],
     "listing_47": [
+      {
+        "date": "2026-03-30",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-06",
         "impressions": 0,
@@ -30541,6 +33877,114 @@
     ],
     "listing_134": [
       {
+        "date": "2026-07-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 13.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 0,
         "clicks": 0,
@@ -30590,6 +34034,30 @@
       }
     ],
     "profile_74": [
+      {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-04-20",
         "impressions": 0,
@@ -32161,6 +35629,30 @@
     ],
     "profile_76": [
       {
+        "date": "2026-04-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-04-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-04-20",
         "impressions": 0,
         "clicks": 0,
@@ -33731,6 +37223,222 @@
     ],
     "listing_87": [
       {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 2,
+        "avg_engagement_seconds": 10.5,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 1,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 2,
+        "clicks": 2,
+        "ctr": 1,
+        "position": 2,
+        "sessions": 4,
+        "avg_engagement_seconds": 70.2,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 3,
+        "avg_engagement_seconds": 20.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 6,
+        "sessions": 3,
+        "avg_engagement_seconds": 8.3,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 6,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 4,
+        "clicks": 1,
+        "ctr": 0.25,
+        "position": 8,
+        "sessions": 1,
+        "avg_engagement_seconds": 10.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 8,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 12.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 12,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 2,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 56,
         "clicks": 0,
@@ -34722,6 +38430,222 @@
       }
     ],
     "listing_81": [
+      {
+        "date": "2026-05-18",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-05-25",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-01",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 63.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-08",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 79.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-15",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-22",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 8.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-06-29",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-06",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-13",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-20",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 53,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-07-27",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 3.3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 60.7,
+        "sessions": 1,
+        "avg_engagement_seconds": 14.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 64.5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 40,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 41.3,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 5,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 64,
+        "sessions": 2,
+        "avg_engagement_seconds": 61.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-09-21",
         "impressions": 0,
@@ -38227,6 +42151,102 @@
     ],
     "listing_138": [
       {
+        "date": "2026-07-27",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 0,
         "clicks": 0,
@@ -38277,6 +42297,90 @@
     ],
     "listing_140": [
       {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 24.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 9.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 1,
         "clicks": 0,
@@ -38326,6 +42430,90 @@
       }
     ],
     "listing_141": [
+      {
+        "date": "2026-08-03",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-10",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-17",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-24",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-08-31",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-07",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-09-21",
         "impressions": 0,
@@ -43401,6 +47589,18 @@
     ],
     "listing_172": [
       {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 0,
         "clicks": 0,
@@ -43451,6 +47651,30 @@
     ],
     "listing_173": [
       {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-21",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 1,
+        "avg_engagement_seconds": 4.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-28",
         "impressions": 0,
         "clicks": 0,
@@ -43488,6 +47712,30 @@
       }
     ],
     "listing_174": [
+      {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
+        "date": "2026-09-21",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-09-28",
         "impressions": 0,
@@ -44043,6 +48291,18 @@
     ],
     "profile_109": [
       {
+        "date": "2026-09-14",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-09-21",
         "impressions": 0,
         "clicks": 0,
@@ -44193,6 +48453,18 @@
     ],
     "profile_114": [
       {
+        "date": "2026-09-28",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-10-05",
         "impressions": 0,
         "clicks": 0,
@@ -44218,6 +48490,18 @@
       }
     ],
     "listing_182": [
+      {
+        "date": "2026-09-28",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-10-05",
         "impressions": 0,
@@ -44245,6 +48529,18 @@
     ],
     "listing_183": [
       {
+        "date": "2026-09-28",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
+      {
         "date": "2026-10-05",
         "impressions": 0,
         "clicks": 0,
@@ -44270,6 +48566,18 @@
       }
     ],
     "profile_116": [
+      {
+        "date": "2026-09-28",
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0,
+        "position": 0,
+        "sessions": 0,
+        "avg_engagement_seconds": 0.0,
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "triage_flag": null
+      },
       {
         "date": "2026-10-05",
         "impressions": 0,
