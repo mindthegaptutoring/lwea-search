@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-26",
   "lookback_days": 28,
   "triage_thresholds": {
     "profile": {
       "low_visibility_max": 0,
-      "high_visibility_min": 5,
+      "high_visibility_min": 4,
       "low_ctr_max": 0,
-      "meaningful_sessions_min": 1,
-      "low_engagement_max": 6.0,
+      "meaningful_sessions_min": 0,
+      "low_engagement_max": 12.0,
       "sample_size": 49
     },
     "listing": {
       "low_visibility_max": 0,
       "high_visibility_min": 4,
       "low_ctr_max": 0,
-      "meaningful_sessions_min": 3,
-      "low_engagement_max": 3.3,
+      "meaningful_sessions_min": 2,
+      "low_engagement_max": 1.0,
       "sample_size": 118
     }
   },
@@ -30,28 +30,26 @@
       "posted_date": "2026-01-08",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 2,
+        "position": 3.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 15,
-        "pageviews": 13,
-        "avg_engagement_seconds": 10.1,
+        "sessions": 7,
+        "pageviews": 6,
+        "avg_engagement_seconds": 5.0,
         "traffic_sources": {
-          "Referral": 11,
-          "Organic Search": 3,
-          "Direct": 1
+          "Referral": 6,
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {
-          "cal.com": 1,
-          "mindthegaptutoring.ca": 1
+          "cal.com": 1
         }
       },
-      "triage_flag": "healthy"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "listing_1",
@@ -63,9 +61,9 @@
       "posted_date": "2026-04-04",
       "gsc": {
         "clicks": 0,
-        "impressions": 41,
+        "impressions": 44,
         "ctr": 0,
-        "position": 27.3,
+        "position": 28.9,
         "top_queries": [
           {
             "query": "best personalized curriculum providers for a sophomore needing math remediation, fewer nightly assignments, and mentorship?",
@@ -80,7 +78,7 @@
           {
             "query": "math tutoring for high school students",
             "clicks": 0,
-            "impressions": 12
+            "impressions": 14
           },
           {
             "query": "online math tutoring for high school students",
@@ -95,11 +93,11 @@
         ]
       },
       "ga4": {
-        "sessions": 10,
-        "pageviews": 10,
-        "avg_engagement_seconds": 2.6,
+        "sessions": 9,
+        "pageviews": 9,
+        "avg_engagement_seconds": 2.2,
         "traffic_sources": {
-          "Direct": 5,
+          "Direct": 4,
           "Referral": 3,
           "Organic Social": 2
         },
@@ -119,26 +117,25 @@
       "posted_date": "2026-09-06",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 0,
         "ctr": 0,
-        "position": 5.7,
+        "position": 0,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 9,
-        "pageviews": 8,
-        "avg_engagement_seconds": 149.0,
+        "sessions": 6,
+        "pageviews": 5,
+        "avg_engagement_seconds": 216.2,
         "traffic_sources": {
-          "Referral": 4,
-          "Direct": 2,
+          "Referral": 3,
           "Organic Social": 2,
-          "Organic Search": 1
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "low_visibility"
     },
     {
       "id": "profile_24",
@@ -150,23 +147,21 @@
       "posted_date": "2026-02-07",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 2,
         "ctr": 0,
-        "position": 0,
+        "position": 5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "listing_27",
@@ -185,8 +180,8 @@
       },
       "ga4": {
         "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.0,
+        "pageviews": 5,
+        "avg_engagement_seconds": 0.3,
         "traffic_sources": {
           "Organic Social": 2,
           "Direct": 1
@@ -207,23 +202,21 @@
       "posted_date": "2026-03-09",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 6,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "listing_13",
@@ -241,19 +234,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
-        "traffic_sources": {
-          "Direct": 2
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_34",
@@ -271,19 +260,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
-        "traffic_sources": {
-          "Direct": 2
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_37",
@@ -297,22 +282,17 @@
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 8,
+        "position": 5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 2,
-        "avg_engagement_seconds": 9.0,
-        "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -332,12 +312,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -354,9 +332,9 @@
       "posted_date": "2026-04-06",
       "gsc": {
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 10,
         "ctr": 0,
-        "position": 37.6,
+        "position": 34.8,
         "top_queries": [
           {
             "query": "online writing for kids and teens",
@@ -366,13 +344,10 @@
         ]
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.0,
-        "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -395,11 +370,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.0,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 2,
+          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -418,23 +393,21 @@
       "posted_date": "2026-03-09",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 9,
+        "position": 8,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "listing_75",
@@ -454,9 +427,10 @@
       "ga4": {
         "sessions": 2,
         "pageviews": 2,
-        "avg_engagement_seconds": 81.0,
+        "avg_engagement_seconds": 93.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1,
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -473,18 +447,18 @@
       "post_type": "profile",
       "posted_date": "2026-03-09",
       "gsc": {
-        "clicks": 0,
-        "impressions": 3,
-        "ctr": 0,
-        "position": 41.3,
+        "clicks": 1,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 31.5,
         "top_queries": []
       },
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 12.0,
         "traffic_sources": {
-          "Direct": 1
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -502,9 +476,9 @@
       "posted_date": "2026-04-14",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 2,
         "ctr": 0,
-        "position": 15.7,
+        "position": 19.5,
         "top_queries": [
           {
             "query": "live online german classes for homeschoolers",
@@ -514,12 +488,10 @@
         ]
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -536,23 +508,21 @@
       "posted_date": "2026-03-09",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 0,
         "ctr": 0,
-        "position": 7,
+        "position": 0,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "profile_33",
@@ -570,12 +540,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -598,11 +566,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -626,17 +594,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_72",
@@ -654,17 +620,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_73",
@@ -676,14 +640,19 @@
       "posted_date": "2026-05-07",
       "gsc": {
         "clicks": 1,
-        "impressions": 49,
-        "ctr": 0.02040816326530612,
-        "position": 12.5,
+        "impressions": 85,
+        "ctr": 0.011764705882352941,
+        "position": 11.7,
         "top_queries": [
+          {
+            "query": "8th grade reading lessons",
+            "clicks": 0,
+            "impressions": 1
+          },
           {
             "query": "reading grade 8 skills",
             "clicks": 0,
-            "impressions": 5
+            "impressions": 16
           },
           {
             "query": "teaching reading across the day, grades k-8 read online",
@@ -693,18 +662,16 @@
         ]
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 5,
-        "avg_engagement_seconds": 1.8,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 0.5,
         "traffic_sources": {
-          "Direct": 3,
+          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_engagement"
     },
@@ -718,23 +685,21 @@
       "posted_date": "2026-03-13",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "listing_50",
@@ -752,12 +717,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 13,
-        "pageviews": 14,
-        "avg_engagement_seconds": 12.1,
+        "sessions": 12,
+        "pageviews": 13,
+        "avg_engagement_seconds": 12.6,
         "traffic_sources": {
           "Organic Social": 10,
-          "Direct": 3
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -775,24 +740,23 @@
       "posted_date": "2026-03-13",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 1.7,
+        "position": 1.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "listing_11",
@@ -804,17 +768,17 @@
       "posted_date": "2026-03-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 7,
         "ctr": 0,
-        "position": 13.1,
+        "position": 14.9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 5,
-        "avg_engagement_seconds": 1.8,
+        "sessions": 3,
+        "pageviews": 4,
+        "avg_engagement_seconds": 8.7,
         "traffic_sources": {
-          "Direct": 2,
+          "Direct": 1,
           "Organic Search": 1,
           "Organic Social": 1
         },
@@ -840,11 +804,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -868,17 +832,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_49",
@@ -890,17 +852,17 @@
       "posted_date": "2026-04-15",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 2,
         "ctr": 0,
-        "position": 6.7,
+        "position": 5.5,
         "top_queries": []
       },
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 10.0,
         "traffic_sources": {
-          "Direct": 1
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -925,11 +887,11 @@
       },
       "ga4": {
         "sessions": 5,
-        "pageviews": 10,
-        "avg_engagement_seconds": 9.6,
+        "pageviews": 14,
+        "avg_engagement_seconds": 20.2,
         "traffic_sources": {
-          "Direct": 3,
-          "Organic Search": 1,
+          "Direct": 2,
+          "Organic Search": 2,
           "Organic Social": 1
         },
         "contact_clicks": 0,
@@ -956,17 +918,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_15",
@@ -977,26 +937,25 @@
       "post_type": "listing",
       "posted_date": "2026-04-06",
       "gsc": {
-        "clicks": 1,
-        "impressions": 8,
-        "ctr": 0.125,
-        "position": 6.9,
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 6.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 3,
-        "avg_engagement_seconds": 10.2,
+        "sessions": 3,
+        "pageviews": 2,
+        "avg_engagement_seconds": 3.3,
         "traffic_sources": {
           "AI Assistant": 2,
-          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "listing_62",
@@ -1008,18 +967,19 @@
       "posted_date": "2026-04-27",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 2,
+        "position": 6.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 7,
-        "pageviews": 7,
-        "avg_engagement_seconds": 16.6,
+        "sessions": 6,
+        "pageviews": 6,
+        "avg_engagement_seconds": 23.0,
         "traffic_sources": {
           "Organic Social": 4,
-          "Direct": 3
+          "Organic Search": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1039,24 +999,23 @@
       "posted_date": "2026-04-30",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 0,
         "ctr": 0,
-        "position": 3,
+        "position": 0,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 2,
+        "sessions": 2,
+        "pageviews": 1,
         "avg_engagement_seconds": 6.0,
         "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
+          "Organic Social": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "low_visibility"
     },
     {
       "id": "listing_67",
@@ -1068,23 +1027,23 @@
       "posted_date": "2026-05-04",
       "gsc": {
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5.2,
+        "position": 9.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_38",
@@ -1096,23 +1055,21 @@
       "posted_date": "2026-03-13",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 6,
         "ctr": 0,
-        "position": 8,
+        "position": 9.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "listing_35",
@@ -1126,16 +1083,16 @@
         "clicks": 0,
         "impressions": 6,
         "ctr": 0,
-        "position": 7.5,
+        "position": 5.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 24,
-        "pageviews": 26,
-        "avg_engagement_seconds": 8.0,
+        "sessions": 22,
+        "pageviews": 24,
+        "avg_engagement_seconds": 5.7,
         "traffic_sources": {
           "Organic Social": 19,
-          "Direct": 5
+          "Direct": 3
         },
         "contact_clicks": 1,
         "connect_pageviews": null,
@@ -1157,22 +1114,14 @@
         "clicks": 0,
         "impressions": 3,
         "ctr": 0,
-        "position": 9.3,
-        "top_queries": [
-          {
-            "query": "expedition spanish",
-            "clicks": 0,
-            "impressions": 1
-          }
-        ]
+        "position": 10,
+        "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -1189,25 +1138,24 @@
       "posted_date": "2026-03-20",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 2,
         "ctr": 0,
-        "position": 9,
+        "position": 9.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 7,
-        "pageviews": 6,
-        "avg_engagement_seconds": 21.1,
+        "sessions": 5,
+        "pageviews": 4,
+        "avg_engagement_seconds": 28.4,
         "traffic_sources": {
-          "Direct": 3,
           "Organic Social": 3,
-          "Referral": 1
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_40",
@@ -1219,18 +1167,16 @@
       "posted_date": "2026-03-13",
       "gsc": {
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 7,
         "ctr": 0,
-        "position": 5.4,
+        "position": 5.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 33.5,
-        "traffic_sources": {
-          "Direct": 2
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -1247,9 +1193,9 @@
       "posted_date": "2026-03-30",
       "gsc": {
         "clicks": 0,
-        "impressions": 15,
+        "impressions": 17,
         "ctr": 0,
-        "position": 25.9,
+        "position": 27.7,
         "top_queries": [
           {
             "query": "online writing tutors for middle school",
@@ -1259,12 +1205,11 @@
         ]
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 62.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Social": 1
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1288,12 +1233,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -1316,11 +1259,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1350,12 +1293,10 @@
         ]
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -1378,12 +1319,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 4.7,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 4.0,
         "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
+          "Organic Social": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1407,17 +1347,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_9",
@@ -1429,23 +1367,23 @@
       "posted_date": "2026-04-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 84,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 4,
-        "avg_engagement_seconds": 1.2,
+        "sessions": 3,
+        "pageviews": 2,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 5
+          "Direct": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "profile_45",
@@ -1457,17 +1395,18 @@
       "posted_date": "2026-03-16",
       "gsc": {
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 5,
         "ctr": 0,
-        "position": 5.3,
+        "position": 5.2,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "sessions": 2,
+        "pageviews": 4,
+        "avg_engagement_seconds": 48.0,
         "traffic_sources": {
-          "Direct": 1
+          "Organic Search": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -1491,12 +1430,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 11.7,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
-          "Direct": 2,
-          "Referral": 1
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1520,12 +1458,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -1542,15 +1478,15 @@
       "posted_date": "2026-04-06",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 3,
         "ctr": 0,
-        "position": 8.5,
+        "position": 8,
         "top_queries": []
       },
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
           "Direct": 1
         },
@@ -1558,7 +1494,7 @@
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_148",
@@ -1576,11 +1512,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 22.3,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 30.5,
         "traffic_sources": {
-          "Direct": 2,
+          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -1607,7 +1543,7 @@
       "ga4": {
         "sessions": 2,
         "pageviews": 2,
-        "avg_engagement_seconds": 18.0,
+        "avg_engagement_seconds": 15.5,
         "traffic_sources": {
           "Direct": 1,
           "Organic Social": 1
@@ -1638,7 +1574,7 @@
         "pageviews": 3,
         "avg_engagement_seconds": 12.7,
         "traffic_sources": {
-          "Direct": 2,
+          "Organic Social": 2,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -1667,10 +1603,10 @@
       "ga4": {
         "sessions": 5,
         "pageviews": 5,
-        "avg_engagement_seconds": 6.8,
+        "avg_engagement_seconds": 20.6,
         "traffic_sources": {
           "Organic Social": 4,
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -1694,12 +1630,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 37.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 10.0,
         "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1723,12 +1658,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 6,
-        "pageviews": 6,
-        "avg_engagement_seconds": 13.5,
+        "sessions": 5,
+        "pageviews": 5,
+        "avg_engagement_seconds": 15.0,
         "traffic_sources": {
           "Organic Social": 4,
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1746,18 +1681,18 @@
       "posted_date": "2026-04-01",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 10,
+        "position": 9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 7.7,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Social": 1
+          "Organic Social": 2,
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -1775,25 +1710,25 @@
       "posted_date": "2026-03-16",
       "gsc": {
         "clicks": 1,
-        "impressions": 16,
-        "ctr": 0.0625,
-        "position": 15.3,
+        "impressions": 17,
+        "ctr": 0.058823529411764705,
+        "position": 17.9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 4,
-        "avg_engagement_seconds": 1.5,
+        "sessions": 8,
+        "pageviews": 12,
+        "avg_engagement_seconds": 23.5,
         "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1,
-          "Organic Search": 1
+          "Direct": 3,
+          "Organic Search": 3,
+          "Organic Social": 2
         },
         "contact_clicks": 0,
-        "connect_pageviews": 0,
+        "connect_pageviews": 1,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_17",
@@ -1811,12 +1746,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -1835,16 +1768,14 @@
         "clicks": 0,
         "impressions": 9,
         "ctr": 0,
-        "position": 7.8,
+        "position": 8.4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -1861,18 +1792,16 @@
       "posted_date": "2026-03-22",
       "gsc": {
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 4,
         "ctr": 0,
-        "position": 6.6,
+        "position": 5.2,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -1889,23 +1818,21 @@
       "posted_date": "2026-03-22",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_21",
@@ -1923,17 +1850,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_22",
@@ -1951,17 +1876,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_23",
@@ -1972,19 +1895,17 @@
       "post_type": "listing",
       "posted_date": "2026-03-22",
       "gsc": {
-        "clicks": 1,
+        "clicks": 0,
         "impressions": 3,
-        "ctr": 0.3333333333333333,
-        "position": 15.7,
+        "ctr": 0,
+        "position": 17,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 9.3,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1,
           "Organic Social": 1
         },
         "contact_clicks": 0,
@@ -2011,12 +1932,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -2033,23 +1952,23 @@
       "posted_date": "2026-03-22",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5.8,
+        "position": 5.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.7,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
-          "Direct": 3
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "profile_51",
@@ -2061,18 +1980,16 @@
       "posted_date": "2026-03-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 15,
         "ctr": 0,
-        "position": 24.1,
+        "position": 18.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -2095,13 +2012,13 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 5,
-        "avg_engagement_seconds": 47.4,
+        "sessions": 8,
+        "pageviews": 7,
+        "avg_engagement_seconds": 37.4,
         "traffic_sources": {
-          "Direct": 2,
-          "Organic Social": 2,
-          "Referral": 1
+          "Organic Social": 4,
+          "Referral": 3,
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2127,9 +2044,9 @@
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 44.0,
         "traffic_sources": {
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2173,18 +2090,16 @@
       "posted_date": "2026-03-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 4,
         "ctr": 0,
-        "position": 7,
+        "position": 6.8,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -2201,17 +2116,16 @@
       "posted_date": "2026-06-02",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 8.5,
+        "position": 8.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 7.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 9.0,
         "traffic_sources": {
-          "Direct": 1,
           "Referral": 1
         },
         "contact_clicks": 0,
@@ -2236,18 +2150,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 1,
-        "avg_engagement_seconds": 3.0,
-        "traffic_sources": {
-          "Direct": 1,
-          "Referral": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_111",
@@ -2259,23 +2170,21 @@
       "posted_date": "2026-06-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 88.7,
+        "position": 87.2,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "profile_56",
@@ -2293,17 +2202,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_55",
@@ -2321,11 +2228,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 14,
-        "pageviews": 16,
-        "avg_engagement_seconds": 5.1,
+        "sessions": 15,
+        "pageviews": 17,
+        "avg_engagement_seconds": 5.3,
         "traffic_sources": {
-          "Organic Social": 13,
+          "Organic Social": 14,
           "Direct": 1
         },
         "contact_clicks": 1,
@@ -2344,7 +2251,7 @@
       "posted_date": "2026-03-18",
       "gsc": {
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
         "position": 7.3,
         "top_queries": []
@@ -2352,9 +2259,9 @@
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -2372,24 +2279,28 @@
       "posted_date": "2026-04-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 48,
         "ctr": 0,
-        "position": 28.8,
+        "position": 27,
         "top_queries": [
           {
             "query": "american civics course online",
             "clicks": 0,
-            "impressions": 15
+            "impressions": 18
+          },
+          {
+            "query": "online civics class",
+            "clicks": 0,
+            "impressions": 1
           }
         ]
       },
       "ga4": {
         "sessions": 3,
         "pageviews": 3,
-        "avg_engagement_seconds": 4.7,
+        "avg_engagement_seconds": 21.3,
         "traffic_sources": {
-          "Referral": 2,
-          "Direct": 1
+          "Referral": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2407,17 +2318,16 @@
       "posted_date": "2026-04-17",
       "gsc": {
         "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 3,
+        "impressions": 3,
+        "ctr": 0.3333333333333333,
+        "position": 6,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
+        "sessions": 1,
+        "pageviews": 1,
         "avg_engagement_seconds": 6.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -2438,16 +2348,14 @@
         "clicks": 0,
         "impressions": 3,
         "ctr": 0,
-        "position": 6.7,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -2464,21 +2372,24 @@
       "posted_date": "2026-04-18",
       "gsc": {
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 2.8,
+        "position": 2.7,
         "top_queries": []
       },
       "ga4": {
         "sessions": 3,
         "pageviews": 3,
-        "avg_engagement_seconds": 2.7,
+        "avg_engagement_seconds": 15.0,
         "traffic_sources": {
-          "Direct": 3
+          "Direct": 2,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
+        "outbound_clicks_by_domain": {
+          "darbykennedyteaches.com": 1
+        }
       },
       "triage_flag": "high_impressions_low_ctr"
     },
@@ -2492,17 +2403,16 @@
       "posted_date": "2026-04-26",
       "gsc": {
         "clicks": 1,
-        "impressions": 31,
-        "ctr": 0.03225806451612903,
-        "position": 15.3,
+        "impressions": 26,
+        "ctr": 0.038461538461538464,
+        "position": 16.9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 12.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 18.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -2521,24 +2431,19 @@
       "posted_date": "2026-04-26",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 4.5,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 2,
-        "avg_engagement_seconds": 5.0,
-        "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -2558,17 +2463,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_157",
@@ -2588,9 +2491,9 @@
       "ga4": {
         "sessions": 1,
         "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "avg_engagement_seconds": 44.0,
         "traffic_sources": {
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2614,18 +2517,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 6,
-        "pageviews": 4,
-        "avg_engagement_seconds": 1.0,
-        "traffic_sources": {
-          "Direct": 3,
-          "Referral": 3
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_33",
@@ -2643,11 +2543,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 5,
-        "avg_engagement_seconds": 1.2,
+        "sessions": 4,
+        "pageviews": 4,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 3,
+          "Direct": 2,
           "Organic Social": 2
         },
         "contact_clicks": 0,
@@ -2666,23 +2566,21 @@
       "posted_date": "2026-04-05",
       "gsc": {
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 3,
         "ctr": 0,
-        "position": 6.5,
+        "position": 4.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "low_engagement"
     },
     {
       "id": "listing_57",
@@ -2700,17 +2598,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 5,
-        "avg_engagement_seconds": 8.0,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 6.0,
         "traffic_sources": {
-          "Direct": 5
+          "Organic Social": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_visibility"
     },
@@ -2724,25 +2620,21 @@
       "posted_date": "2026-04-07",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 10.5,
+        "position": 9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 23.3,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 60.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Social": 1,
-          "Referral": 1
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
-        "outbound_clicks_by_domain": {
-          "recalibratewellness.com": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -2762,12 +2654,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 10,
-        "pageviews": 11,
-        "avg_engagement_seconds": 1.5,
+        "sessions": 9,
+        "pageviews": 10,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
           "Organic Social": 8,
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2793,17 +2685,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
-        "traffic_sources": {
-          "Direct": 2
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_156",
@@ -2821,11 +2711,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 1.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2849,11 +2739,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Direct": 2
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2877,12 +2767,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -2905,11 +2793,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 7.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 9.0,
         "traffic_sources": {
-          "Direct": 1,
           "Referral": 1
         },
         "contact_clicks": 0,
@@ -2936,10 +2823,9 @@
       "ga4": {
         "sessions": 4,
         "pageviews": 4,
-        "avg_engagement_seconds": 3.0,
+        "avg_engagement_seconds": 25.5,
         "traffic_sources": {
-          "Organic Social": 3,
-          "Direct": 1
+          "Organic Social": 4
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -2957,25 +2843,25 @@
       "posted_date": "2026-07-29",
       "gsc": {
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 78,
+        "position": 77,
         "top_queries": []
       },
       "ga4": {
         "sessions": 5,
         "pageviews": 5,
-        "avg_engagement_seconds": 14.2,
+        "avg_engagement_seconds": 8.2,
         "traffic_sources": {
-          "Direct": 2,
-          "Organic Social": 2,
+          "Organic Social": 3,
+          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "healthy"
+      "triage_flag": "high_impressions_low_ctr"
     },
     {
       "id": "listing_134",
@@ -2994,11 +2880,10 @@
       },
       "ga4": {
         "sessions": 3,
-        "pageviews": 2,
-        "avg_engagement_seconds": 6.0,
+        "pageviews": 3,
+        "avg_engagement_seconds": 13.7,
         "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1
+          "Organic Social": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3016,18 +2901,16 @@
       "posted_date": "2026-04-15",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 6.5,
+        "position": 6.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -3050,11 +2933,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.3,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 0.5,
         "traffic_sources": {
-          "Direct": 3
+          "Direct": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3086,10 +2969,10 @@
       "ga4": {
         "sessions": 4,
         "pageviews": 3,
-        "avg_engagement_seconds": 9.2,
+        "avg_engagement_seconds": 15.2,
         "traffic_sources": {
           "Organic Social": 3,
-          "Direct": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3115,11 +2998,10 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 20.5,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 35.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Social": 1
         },
         "contact_clicks": 0,
@@ -3138,17 +3020,18 @@
       "posted_date": "2026-06-08",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
+        "impressions": 1,
         "ctr": 0,
-        "position": 0,
+        "position": 11,
         "top_queries": []
       },
       "ga4": {
         "sessions": 4,
-        "pageviews": 4,
-        "avg_engagement_seconds": 8.0,
+        "pageviews": 3,
+        "avg_engagement_seconds": 6.2,
         "traffic_sources": {
-          "Direct": 3,
+          "Referral": 2,
+          "Direct": 1,
           "Email": 1
         },
         "contact_clicks": 0,
@@ -3157,7 +3040,7 @@
           "maritimephilosophyfriends.com": 1
         }
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_76",
@@ -3169,18 +3052,16 @@
       "posted_date": "2026-04-17",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 7,
+        "position": 5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -3203,12 +3084,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 9,
-        "pageviews": 9,
-        "avg_engagement_seconds": 14.0,
+        "sessions": 8,
+        "pageviews": 8,
+        "avg_engagement_seconds": 15.0,
         "traffic_sources": {
-          "Organic Social": 8,
-          "Direct": 1
+          "Organic Social": 8
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3232,17 +3112,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_64",
@@ -3262,159 +3140,9 @@
       "ga4": {
         "sessions": 2,
         "pageviews": 2,
-        "avg_engagement_seconds": 23.5,
+        "avg_engagement_seconds": 20.5,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "low_visibility"
-    },
-    {
-      "id": "profile_79",
-      "member_id": "79",
-      "member_name": "Adriana Cristea",
-      "url": "https://www.learnwitheveryavenue.com/1-on-1-teaching/adriana-cristea",
-      "title": "Adriana Cristea",
-      "post_type": "profile",
-      "posted_date": "2026-04-27",
-      "gsc": {
-        "clicks": 3,
-        "impressions": 51,
-        "ctr": 0.058823529411764705,
-        "position": 8.4,
-        "top_queries": [
-          {
-            "query": "adriana cristea",
-            "clicks": 0,
-            "impressions": 19
-          }
-        ]
-      },
-      "ga4": {
-        "sessions": 5,
-        "pageviews": 9,
-        "avg_engagement_seconds": 29.0,
-        "traffic_sources": {
-          "Organic Search": 3,
-          "Direct": 1,
-          "Referral": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": 1,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "healthy"
-    },
-    {
-      "id": "listing_87",
-      "member_id": "79",
-      "member_name": "Adriana Cristea",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/long%E2%80%91term-violin-study-for-committed-learners-technique-musical-identity-structured-development",
-      "title": "Long\u2011Term Violin Study for Committed Learners | technique, musical identity, structured development",
-      "post_type": "listing",
-      "posted_date": "2026-05-28",
-      "gsc": {
-        "clicks": 0,
-        "impressions": 96,
-        "ctr": 0,
-        "position": 9.7,
-        "top_queries": [
-          {
-            "query": "consistency in music lessons",
-            "clicks": 0,
-            "impressions": 2
-          },
-          {
-            "query": "online violin classes",
-            "clicks": 0,
-            "impressions": 3
-          },
-          {
-            "query": "online violin lessons",
-            "clicks": 0,
-            "impressions": 1
-          },
-          {
-            "query": "online violin lessons for adults",
-            "clicks": 0,
-            "impressions": 1
-          },
-          {
-            "query": "online violin teachers",
-            "clicks": 0,
-            "impressions": 1
-          }
-        ]
-      },
-      "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "high_impressions_low_ctr"
-    },
-    {
-      "id": "listing_143",
-      "member_id": "79",
-      "member_name": "Adriana Cristea",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/homeschool-transcript-creation-academic-documentation-support",
-      "title": "Homeschool Transcript Creation & Academic Documentation Support",
-      "post_type": "listing",
-      "posted_date": "2026-08-11",
-      "gsc": {
-        "clicks": 1,
-        "impressions": 2,
-        "ctr": 0.5,
-        "position": 11.5,
-        "top_queries": []
-      },
-      "ga4": {
-        "sessions": 4,
-        "pageviews": 5,
-        "avg_engagement_seconds": 62.0,
-        "traffic_sources": {
-          "Organic Social": 2,
-          "Direct": 1,
-          "Organic Search": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "healthy"
-    },
-    {
-      "id": "listing_144",
-      "member_id": "79",
-      "member_name": "Adriana Cristea",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/beginner-french-lessons-foundations-in-vocabulary-grammar-conversation",
-      "title": "Beginner French Lessons: Foundations in Vocabulary, Grammar & Conversation",
-      "post_type": "listing",
-      "posted_date": "2026-08-11",
-      "gsc": {
-        "clicks": 0,
-        "impressions": 0,
-        "ctr": 0,
-        "position": 0,
-        "top_queries": []
-      },
-      "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 20.0,
-        "traffic_sources": {
-          "Direct": 2,
-          "Referral": 1
+          "Organic Search": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3431,24 +3159,29 @@
       "post_type": "profile",
       "posted_date": "2026-05-08",
       "gsc": {
-        "clicks": 0,
+        "clicks": 1,
         "impressions": 2,
-        "ctr": 0,
-        "position": 5.5,
+        "ctr": 0.5,
+        "position": 9,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "sessions": 2,
+        "pageviews": 6,
+        "avg_engagement_seconds": 300.0,
         "traffic_sources": {
-          "Direct": 1
+          "Organic Search": 1,
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
-        "outbound_clicks_by_domain": {}
+        "outbound_clicks_by_domain": {
+          "facebook.com": 2,
+          "linkedin.com": 2,
+          "heronmontessori.com": 1
+        }
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_81",
@@ -3460,9 +3193,9 @@
       "posted_date": "2026-05-29",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 31.5,
+        "position": 30.3,
         "top_queries": [
           {
             "query": "montessori business consultants",
@@ -3473,10 +3206,10 @@
       },
       "ga4": {
         "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
+        "pageviews": 2,
+        "avg_engagement_seconds": 340.0,
         "traffic_sources": {
-          "Direct": 1
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3500,13 +3233,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 12,
-        "pageviews": 12,
-        "avg_engagement_seconds": 2.8,
+        "sessions": 14,
+        "pageviews": 14,
+        "avg_engagement_seconds": 2.7,
         "traffic_sources": {
-          "Organic Social": 9,
-          "Referral": 2,
-          "Direct": 1
+          "Organic Social": 12,
+          "Referral": 2
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -3560,10 +3292,9 @@
       "ga4": {
         "sessions": 3,
         "pageviews": 6,
-        "avg_engagement_seconds": 84.7,
+        "avg_engagement_seconds": 90.0,
         "traffic_sources": {
-          "Organic Search": 2,
-          "Direct": 1
+          "Organic Search": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -3581,20 +3312,19 @@
       "posted_date": "2026-06-07",
       "gsc": {
         "clicks": 1,
-        "impressions": 5,
-        "ctr": 0.2,
-        "position": 4.4,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 5.8,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 5,
-        "avg_engagement_seconds": 14.0,
+        "sessions": 6,
+        "pageviews": 6,
+        "avg_engagement_seconds": 23.0,
         "traffic_sources": {
-          "Organic Search": 2,
-          "Direct": 1,
-          "Organic Social": 1,
-          "Referral": 1
+          "Organic Search": 3,
+          "Referral": 2,
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -3618,16 +3348,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 2,
-        "avg_engagement_seconds": 2.0,
+        "sessions": 4,
+        "pageviews": 3,
+        "avg_engagement_seconds": 78.0,
         "traffic_sources": {
-          "Referral": 2,
-          "Direct": 1
+          "Referral": 4
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
+        "outbound_clicks_by_domain": {
+          "cal.eu": 1
+        }
       },
       "triage_flag": "low_visibility"
     },
@@ -3647,12 +3378,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 9,
-        "pageviews": 9,
-        "avg_engagement_seconds": 20.8,
+        "sessions": 11,
+        "pageviews": 11,
+        "avg_engagement_seconds": 24.8,
         "traffic_sources": {
+          "Referral": 5,
           "Direct": 3,
-          "Referral": 3,
           "Email": 1,
           "Organic Search": 1,
           "Organic Social": 1
@@ -3681,10 +3412,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 4,
-        "avg_engagement_seconds": 44.7,
+        "sessions": 9,
+        "pageviews": 11,
+        "avg_engagement_seconds": 13.3,
         "traffic_sources": {
+          "Organic Social": 6,
           "Direct": 2,
           "Referral": 1
         },
@@ -3704,24 +3436,24 @@
       "posted_date": "2026-06-26",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 5,
+        "position": 1,
         "top_queries": []
       },
       "ga4": {
         "sessions": 2,
         "pageviews": 2,
-        "avg_engagement_seconds": 4.0,
+        "avg_engagement_seconds": 17.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1
+          "Organic Search": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_123",
@@ -3732,25 +3464,27 @@
       "post_type": "listing",
       "posted_date": "2026-06-27",
       "gsc": {
-        "clicks": 0,
+        "clicks": 1,
         "impressions": 2,
-        "ctr": 0,
-        "position": 7,
+        "ctr": 0.5,
+        "position": 5.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 2.0,
+        "sessions": 5,
+        "pageviews": 5,
+        "avg_engagement_seconds": 33.6,
         "traffic_sources": {
-          "Direct": 2,
+          "Referral": 2,
+          "Direct": 1,
+          "Organic Search": 1,
           "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_124",
@@ -3762,17 +3496,16 @@
       "posted_date": "2026-06-27",
       "gsc": {
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 9,
+        "position": 8.5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 10.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 14.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -3793,7 +3526,7 @@
       "posted_date": "2026-06-28",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 3,
         "ctr": 0,
         "position": 7,
         "top_queries": []
@@ -3801,11 +3534,12 @@
       "ga4": {
         "sessions": 6,
         "pageviews": 10,
-        "avg_engagement_seconds": 12.3,
+        "avg_engagement_seconds": 13.7,
         "traffic_sources": {
-          "Direct": 4,
+          "Direct": 3,
           "Email": 1,
-          "Organic Social": 1
+          "Organic Social": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -3835,19 +3569,19 @@
         ]
       },
       "ga4": {
-        "sessions": 13,
-        "pageviews": 13,
-        "avg_engagement_seconds": 25.8,
+        "sessions": 17,
+        "pageviews": 18,
+        "avg_engagement_seconds": 38.6,
         "traffic_sources": {
-          "Organic Social": 6,
-          "Direct": 4,
+          "Organic Social": 8,
+          "Direct": 6,
           "Organic Search": 2,
           "Email": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {
-          "tammy-anne.com": 2
+          "tammy-anne.com": 5
         }
       },
       "triage_flag": "healthy"
@@ -3856,59 +3590,72 @@
       "id": "listing_140",
       "member_id": "95",
       "member_name": "Tammy-Anne Caldwell",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A0how-does-my-brain-learn-grow-science-for-kids-aged-6-12-their-parents",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/how-does-my-brain-learn-grow-science-for-kids-aged-6-12-their-parents",
       "title": "\ud83e\udde0HOW DOES MY BRAIN LEARN & GROW? Science for Kids aged 6-12 & their Parents",
       "post_type": "listing",
       "posted_date": "2026-08-10",
+      "aliases": [
+        {
+          "url": "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A0how-does-my-brain-learn-grow-science-for-kids-aged-6-12-their-parents",
+          "since": "2026-10-26"
+        }
+      ],
       "gsc": {
         "clicks": 1,
         "impressions": 8,
         "ctr": 0.125,
-        "position": 43.8,
+        "position": 50.0,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.5,
+        "sessions": 3,
+        "pageviews": 3,
+        "avg_engagement_seconds": 0.3,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "healthy"
-    },
-    {
-      "id": "listing_141",
-      "member_id": "95",
-      "member_name": "Tammy-Anne Caldwell",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A08-days-of-reading-wellbeing-brain-science-in-the-aussie-bush-%F0%9F%8C%BF-age-6-12-%F0%9F%93%96",
-      "title": "\ud83e\udde08 Days of READING, WELLBEING & BRAIN-SCIENCE in the Aussie Bush \ud83c\udf3f age 6-12 \ud83d\udcd6",
-      "post_type": "listing",
-      "posted_date": "2026-08-10",
-      "gsc": {
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 44,
-        "top_queries": []
-      },
-      "ga4": {
-        "sessions": 8,
-        "pageviews": 7,
-        "avg_engagement_seconds": 3.2,
-        "traffic_sources": {
-          "Organic Social": 7,
-          "Direct": 1
+          "Referral": 1,
+          "Organic Search": 1,
+          "Organic Social": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
       "triage_flag": "low_engagement"
+    },
+    {
+      "id": "listing_141",
+      "member_id": "95",
+      "member_name": "Tammy-Anne Caldwell",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/8-days-of-reading-wellbeing-brain-science-in-the-aussie-bush-age-6-12",
+      "title": "\ud83e\udde08 Days of READING, WELLBEING & BRAIN-SCIENCE in the Aussie Bush \ud83c\udf3f age 6-12 \ud83d\udcd6",
+      "post_type": "listing",
+      "posted_date": "2026-08-10",
+      "aliases": [
+        {
+          "url": "https://www.learnwitheveryavenue.com/classes-and-resources/%F0%9F%A7%A08-days-of-reading-wellbeing-brain-science-in-the-aussie-bush-%F0%9F%8C%BF-age-6-12-%F0%9F%93%96",
+          "since": "2026-10-26"
+        }
+      ],
+      "gsc": {
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0.0,
+        "position": 44.0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 8,
+        "pageviews": 7,
+        "avg_engagement_seconds": 6.6,
+        "traffic_sources": {
+          "Organic Social": 7,
+          "Unassigned": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_97",
@@ -3920,17 +3667,16 @@
       "posted_date": "2026-06-30",
       "gsc": {
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 0.3333333333333333,
-        "position": 3.3,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 12.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 18.0,
         "traffic_sources": {
-          "Direct": 1,
           "Organic Search": 1
         },
         "contact_clicks": 0,
@@ -3951,17 +3697,17 @@
       "posted_date": "2026-07-25",
       "gsc": {
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 14,
         "ctr": 0,
-        "position": 13.8,
+        "position": 13.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 8,
-        "avg_engagement_seconds": 17.8,
+        "sessions": 3,
+        "pageviews": 4,
+        "avg_engagement_seconds": 7.3,
         "traffic_sources": {
-          "Organic Search": 4
+          "Organic Search": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -3987,20 +3733,16 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 7,
-        "pageviews": 7,
-        "avg_engagement_seconds": 10.9,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 8.0,
         "traffic_sources": {
-          "Organic Search": 4,
-          "Direct": 2,
-          "Organic Social": 1
+          "Direct": 1,
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {
-          "(not set)": 2,
-          "equippedforwriting.com": 1
-        }
+        "outbound_clicks_by_domain": {}
       },
       "triage_flag": "healthy"
     },
@@ -4014,21 +3756,21 @@
       "posted_date": "2026-07-27",
       "gsc": {
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 9,
         "ctr": 0,
-        "position": 9.6,
+        "position": 8.7,
         "top_queries": []
       },
       "ga4": {
         "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 6.7,
+        "pageviews": 4,
+        "avg_engagement_seconds": 3.0,
         "traffic_sources": {
           "Direct": 1,
           "Organic Search": 1,
           "Referral": 1
         },
-        "contact_clicks": 0,
+        "contact_clicks": 1,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
@@ -4044,9 +3786,9 @@
       "posted_date": "2026-09-25",
       "gsc": {
         "clicks": 0,
-        "impressions": 32,
+        "impressions": 35,
         "ctr": 0,
-        "position": 15.3,
+        "position": 16.1,
         "top_queries": [
           {
             "query": "iew",
@@ -4076,16 +3818,19 @@
         ]
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 0.5,
+        "sessions": 6,
+        "pageviews": 8,
+        "avg_engagement_seconds": 28.2,
         "traffic_sources": {
-          "Direct": 1,
-          "Referral": 1
+          "Direct": 3,
+          "Referral": 2,
+          "Organic Search": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
+        "outbound_clicks_by_domain": {
+          "equippedforwriting.com": 2
+        }
       },
       "triage_flag": "high_impressions_low_ctr"
     },
@@ -4098,25 +3843,24 @@
       "post_type": "profile",
       "posted_date": "2026-07-29",
       "gsc": {
-        "clicks": 1,
-        "impressions": 4,
-        "ctr": 0.25,
-        "position": 3.8,
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 2,
-        "avg_engagement_seconds": 3.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 15.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_engagement"
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_135",
@@ -4128,19 +3872,18 @@
       "posted_date": "2026-08-04",
       "gsc": {
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 4.5,
+        "position": 5,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 3,
-        "avg_engagement_seconds": 11.3,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 14.0,
         "traffic_sources": {
-          "Direct": 1,
-          "Organic Search": 1,
-          "Organic Social": 1
+          "Organic Social": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4184,24 +3927,22 @@
       "posted_date": "2026-08-29",
       "gsc": {
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 8,
         "ctr": 0,
-        "position": 5,
+        "position": 6.4,
         "top_queries": [
           {
             "query": "aisha govani",
             "clicks": 0,
-            "impressions": 3
+            "impressions": 1
           }
         ]
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 6.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
@@ -4224,12 +3965,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 5,
-        "pageviews": 4,
-        "avg_engagement_seconds": 17.2,
+        "sessions": 6,
+        "pageviews": 6,
+        "avg_engagement_seconds": 16.2,
         "traffic_sources": {
-          "Direct": 3,
-          "Organic Social": 2
+          "Organic Social": 5,
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4253,17 +3994,15 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
+        "sessions": 0,
+        "pageviews": 0,
         "avg_engagement_seconds": 0.0,
-        "traffic_sources": {
-          "Direct": 1
-        },
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     },
     {
       "id": "listing_166",
@@ -4275,19 +4014,19 @@
       "posted_date": "2026-09-15",
       "gsc": {
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 4,
         "ctr": 0,
-        "position": 3.6,
+        "position": 4,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 11,
-        "pageviews": 10,
-        "avg_engagement_seconds": 9.6,
+        "sessions": 8,
+        "pageviews": 7,
+        "avg_engagement_seconds": 8.2,
         "traffic_sources": {
           "Organic Social": 5,
-          "Direct": 4,
-          "Organic Search": 2
+          "Organic Search": 2,
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4331,18 +4070,18 @@
       "posted_date": "2026-09-11",
       "gsc": {
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5.2,
+        "position": 5.7,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 6,
-        "avg_engagement_seconds": 41.0,
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 115.0,
         "traffic_sources": {
-          "Referral": 3,
-          "Direct": 1
+          "Organic Search": 1,
+          "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": 0,
@@ -4366,12 +4105,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 6,
-        "avg_engagement_seconds": 56.2,
+        "sessions": 3,
+        "pageviews": 5,
+        "avg_engagement_seconds": 42.3,
         "traffic_sources": {
-          "Direct": 2,
-          "Referral": 2
+          "Referral": 2,
+          "Direct": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4389,19 +4128,24 @@
       "posted_date": "2026-09-25",
       "gsc": {
         "clicks": 0,
-        "impressions": 33,
+        "impressions": 55,
         "ctr": 0,
-        "position": 25.2,
+        "position": 25.1,
         "top_queries": [
           {
             "query": "homeschool geometry",
             "clicks": 0,
-            "impressions": 8
+            "impressions": 12
           },
           {
             "query": "livingston geometry tutoring",
             "clicks": 0,
-            "impressions": 4
+            "impressions": 11
+          },
+          {
+            "query": "where can i enroll my child in weekly homework help classes for geometry?",
+            "clicks": 0,
+            "impressions": 1
           }
         ]
       },
@@ -4434,11 +4178,12 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 1,
-        "avg_engagement_seconds": 19.5,
+        "sessions": 3,
+        "pageviews": 2,
+        "avg_engagement_seconds": 13.0,
         "traffic_sources": {
           "Organic Search": 1,
+          "Organic Social": 1,
           "Referral": 1
         },
         "contact_clicks": 0,
@@ -4457,38 +4202,21 @@
       "posted_date": "2026-09-25",
       "gsc": {
         "clicks": 0,
-        "impressions": 0,
-        "ctr": 0,
-        "position": 0,
-        "top_queries": []
-      },
-      "ga4": {
-        "sessions": 1,
-        "pageviews": 1,
-        "avg_engagement_seconds": 4.0,
-        "traffic_sources": {
-          "Referral": 1
-        },
-        "contact_clicks": 0,
-        "connect_pageviews": null,
-        "outbound_clicks_by_domain": {}
-      },
-      "triage_flag": "low_visibility"
-    },
-    {
-      "id": "listing_174",
-      "member_id": "108",
-      "member_name": "Amy Ruth Curtis",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/proofs-decoded-a-step-by-step-guide-for-geometry-students",
-      "title": "Proofs Decoded: A Step-by-Step Guide for Geometry Students",
-      "post_type": "listing",
-      "posted_date": "2026-09-27",
-      "gsc": {
-        "clicks": 0,
         "impressions": 4,
         "ctr": 0,
-        "position": 23.5,
-        "top_queries": []
+        "position": 60.5,
+        "top_queries": [
+          {
+            "query": "geometric terms",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "query": "geometry terms",
+            "clicks": 0,
+            "impressions": 1
+          }
+        ]
       },
       "ga4": {
         "sessions": 0,
@@ -4500,6 +4228,34 @@
         "outbound_clicks_by_domain": {}
       },
       "triage_flag": "high_impressions_low_ctr"
+    },
+    {
+      "id": "listing_174",
+      "member_id": "108",
+      "member_name": "Amy Ruth Curtis",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/proofs-decoded-a-step-by-step-guide-for-geometry-students",
+      "title": "Proofs Decoded: A Step-by-Step Guide for Geometry Students",
+      "post_type": "listing",
+      "posted_date": "2026-09-27",
+      "gsc": {
+        "clicks": 1,
+        "impressions": 14,
+        "ctr": 0.07142857142857142,
+        "position": 16.4,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 11.0,
+        "traffic_sources": {
+          "Organic Search": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "healthy"
     },
     {
       "id": "listing_175",
@@ -4517,11 +4273,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 4,
-        "avg_engagement_seconds": 32.0,
+        "sessions": 16,
+        "pageviews": 16,
+        "avg_engagement_seconds": 8.0,
         "traffic_sources": {
-          "Organic Social": 3,
+          "Organic Social": 15,
           "Referral": 1
         },
         "contact_clicks": 0,
@@ -4601,13 +4357,14 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 5,
-        "avg_engagement_seconds": 20.8,
+        "sessions": 5,
+        "pageviews": 6,
+        "avg_engagement_seconds": 17.8,
         "traffic_sources": {
           "Direct": 2,
           "Organic Search": 1,
-          "Referral": 1
+          "Referral": 1,
+          "Unassigned": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4631,18 +4388,18 @@
       ],
       "gsc": {
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 17,
         "ctr": 0.0,
-        "position": 24.4,
+        "position": 25.3,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 8,
-        "pageviews": 7,
-        "avg_engagement_seconds": 50.7,
+        "sessions": 9,
+        "pageviews": 8,
+        "avg_engagement_seconds": 54.1,
         "traffic_sources": {
           "Direct": 6,
-          "Referral": 2
+          "Referral": 3
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
@@ -4669,15 +4426,18 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 2,
+        "pageviews": 2,
+        "avg_engagement_seconds": 15.0,
+        "traffic_sources": {
+          "Direct": 1,
+          "Referral": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "id": "listing_185",
@@ -4714,17 +4474,19 @@
       "post_type": "listing",
       "posted_date": "2026-10-08",
       "gsc": {
-        "clicks": 0,
-        "impressions": 3,
-        "ctr": 0,
-        "position": 29.7,
+        "clicks": 1,
+        "impressions": 12,
+        "ctr": 0.08333333333333333,
+        "position": 19.6,
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
+        "sessions": 1,
+        "pageviews": 1,
         "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "traffic_sources": {
+          "Organic Search": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
@@ -4735,15 +4497,21 @@
       "id": "listing_187",
       "member_id": "108",
       "member_name": "Amy Ruth Curtis",
-      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/your-teen-isnt-bad-at-geometry-free-survival-guide-for-parents",
-      "title": "Your Teen Isn't Bad at Geometry: Free Survival Guide for Parents",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/your-teen-isnt-bad-at-geometry-a-free-survival-guide-for-parents",
+      "title": "Your Teen Isn't Bad at Geometry: A Free Survival Guide for Parents",
       "post_type": "listing",
       "posted_date": "2026-10-08",
+      "aliases": [
+        {
+          "url": "https://www.learnwitheveryavenue.com/classes-and-resources/your-teen-isnt-bad-at-geometry-free-survival-guide-for-parents",
+          "since": "2026-10-26"
+        }
+      ],
       "gsc": {
         "clicks": 0,
         "impressions": 0,
-        "ctr": 0,
-        "position": 0,
+        "ctr": 0.0,
+        "position": 0.0,
         "top_queries": []
       },
       "ga4": {
@@ -4773,15 +4541,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
+        "sessions": 2,
+        "pageviews": 2,
         "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "traffic_sources": {
+          "Organic Social": 2
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "id": "listing_189",
@@ -4799,15 +4569,17 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 0,
-        "pageviews": 0,
-        "avg_engagement_seconds": 0.0,
-        "traffic_sources": {},
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 1.0,
+        "traffic_sources": {
+          "Direct": 1
+        },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "new_no_data"
+      "triage_flag": "low_visibility"
     },
     {
       "id": "listing_190",
@@ -4845,14 +4617,19 @@
       "posted_date": "2026-09-24",
       "gsc": {
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 13,
         "ctr": 0,
-        "position": 15,
+        "position": 9.8,
         "top_queries": [
           {
             "query": "ebony miranda",
             "clicks": 0,
-            "impressions": 3
+            "impressions": 4
+          },
+          {
+            "query": "traci miranda",
+            "clicks": 0,
+            "impressions": 1
           }
         ]
       },
@@ -4930,10 +4707,10 @@
       "post_type": "listing",
       "posted_date": "2026-10-04",
       "gsc": {
-        "clicks": 0,
-        "impressions": 13,
-        "ctr": 0,
-        "position": 22.8,
+        "clicks": 1,
+        "impressions": 20,
+        "ctr": 0.05,
+        "position": 24.4,
         "top_queries": [
           {
             "query": "online clubs for elementary students",
@@ -4943,18 +4720,19 @@
         ]
       },
       "ga4": {
-        "sessions": 3,
-        "pageviews": 4,
-        "avg_engagement_seconds": 3.3,
+        "sessions": 4,
+        "pageviews": 5,
+        "avg_engagement_seconds": 3.5,
         "traffic_sources": {
           "Direct": 2,
+          "Organic Search": 1,
           "Referral": 1
         },
         "contact_clicks": 0,
         "connect_pageviews": null,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "high_impressions_low_ctr"
+      "triage_flag": "healthy"
     },
     {
       "id": "profile_114",
@@ -4972,11 +4750,11 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 2,
-        "pageviews": 3,
-        "avg_engagement_seconds": 8.5,
+        "sessions": 3,
+        "pageviews": 4,
+        "avg_engagement_seconds": 15.0,
         "traffic_sources": {
-          "Organic Search": 1,
+          "Organic Search": 2,
           "Referral": 1
         },
         "contact_clicks": 0,
@@ -5001,6 +4779,75 @@
         "top_queries": []
       },
       "ga4": {
+        "sessions": 4,
+        "pageviews": 4,
+        "avg_engagement_seconds": 70.0,
+        "traffic_sources": {
+          "Direct": 1,
+          "Organic Search": 1,
+          "Organic Social": 1,
+          "Referral": 1
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {
+          "claude.ai": 4
+        }
+      },
+      "triage_flag": "low_visibility"
+    },
+    {
+      "id": "profile_116",
+      "member_id": "116",
+      "member_name": "camino espiral",
+      "url": "https://www.learnwitheveryavenue.com/coaching-mentoring/camino-espiral",
+      "title": "camino espiral",
+      "post_type": "profile",
+      "posted_date": "2026-10-09",
+      "aliases": [
+        {
+          "url": "https://www.learnwitheveryavenue.com/coaching-mentoring/laura-andrade",
+          "since": "2026-10-26"
+        }
+      ],
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0.0,
+        "position": 0.0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 11,
+        "pageviews": 16,
+        "avg_engagement_seconds": 122.8,
+        "traffic_sources": {
+          "Organic Social": 11
+        },
+        "contact_clicks": 0,
+        "connect_pageviews": 0,
+        "outbound_clicks_by_domain": {
+          "caminoespiral.com": 1
+        }
+      },
+      "triage_flag": "low_visibility"
+    },
+    {
+      "id": "listing_191",
+      "member_id": "116",
+      "member_name": "camino espiral",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/learn-a-language-through-brain-development-and-emotional-intelligence",
+      "title": "LEARN A LANGUAGE THROUGH BRAIN DEVELOPMENT AND EMOTIONAL INTELLIGENCE",
+      "post_type": "listing",
+      "posted_date": "2026-10-19",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
         "sessions": 0,
         "pageviews": 0,
         "avg_engagement_seconds": 0.0,
@@ -5012,13 +4859,13 @@
       "triage_flag": "new_no_data"
     },
     {
-      "id": "profile_116",
+      "id": "listing_192",
       "member_id": "116",
-      "member_name": "LAURA ANDRADE",
-      "url": "https://www.learnwitheveryavenue.com/coaching-mentoring/laura-andrade",
-      "title": "LAURA ANDRADE",
-      "post_type": "profile",
-      "posted_date": "2026-10-09",
+      "member_name": "camino espiral",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/mental-development-and-emotional-well-being",
+      "title": "MENTAL DEVELOPMENT AND EMOTIONAL WELL-BEING",
+      "post_type": "listing",
+      "posted_date": "2026-10-22",
       "gsc": {
         "clicks": 0,
         "impressions": 0,
@@ -5027,17 +4874,69 @@
         "top_queries": []
       },
       "ga4": {
-        "sessions": 4,
-        "pageviews": 6,
-        "avg_engagement_seconds": 26.0,
+        "sessions": 1,
+        "pageviews": 1,
+        "avg_engagement_seconds": 0.0,
         "traffic_sources": {
-          "Organic Social": 4
+          "Organic Social": 1
         },
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "low_visibility"
+    },
+    {
+      "id": "listing_193",
+      "member_id": "116",
+      "member_name": "camino espiral",
+      "url": "https://www.learnwitheveryavenue.com/classes-and-resources/learn-a-language-through-brain-development-and-emotional-intelligence-193",
+      "title": "LEARN A LANGUAGE THROUGH BRAIN DEVELOPMENT AND EMOTIONAL INTELLIGENCE",
+      "post_type": "listing",
+      "posted_date": "2026-10-24",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
+        "contact_clicks": 0,
+        "connect_pageviews": null,
+        "outbound_clicks_by_domain": {}
+      },
+      "triage_flag": "new_no_data"
+    },
+    {
+      "id": "profile_117",
+      "member_id": "117",
+      "member_name": "Deanna Fahey",
+      "url": "https://www.learnwitheveryavenue.com/1-on-1-teaching/deanna-fahey",
+      "title": "Deanna Fahey",
+      "post_type": "profile",
+      "posted_date": "2026-10-21",
+      "gsc": {
+        "clicks": 0,
+        "impressions": 0,
+        "ctr": 0,
+        "position": 0,
+        "top_queries": []
+      },
+      "ga4": {
+        "sessions": 0,
+        "pageviews": 0,
+        "avg_engagement_seconds": 0.0,
+        "traffic_sources": {},
         "contact_clicks": 0,
         "connect_pageviews": 0,
         "outbound_clicks_by_domain": {}
       },
-      "triage_flag": "low_visibility"
+      "triage_flag": "new_no_data"
     }
   ]
 }
